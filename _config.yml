@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Chloe at Air & Space Museum"
+  name             : "Chloe Zhu"
   pronouns         : # example: "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
+  bio              : "Electrical & Computer Engineer | Physicist"
   location         : "San Francisco Bay Area"
   #employer         : "Red Brick University"
   #uri              : # URL
