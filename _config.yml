@@ -27,9 +27,9 @@ author:
   name             : "Chloe at Air & Space Museum"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "San Francisco Bay Area"
+  #employer         : "Red Brick University"
+  #uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
