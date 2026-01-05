@@ -42,7 +42,6 @@ author:
   #semantic         : # URL
   #ssrn             : # URL
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  ResearchGate     : "https://www.researchgate.net/profile/Fangjun-Zhu"
   scopus           : # URL
   zotero           : # URL
 
@@ -52,6 +51,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "ChloeZhu1"
+  ResearchGate     : "Fangjun-Zhu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
