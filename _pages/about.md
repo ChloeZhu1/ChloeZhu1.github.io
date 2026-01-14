@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! My name is Chloe Zhu. Currently, I am working on developing AI algorithms for unmanned aerial vehicle/drones and for educational consultancy. I am also working on automation for industrial process control.
+Hi everyone! My name is Chloe Zhu. Currently, I am working on developing AI algorithms for unmanned aerial vehicle/drones, and for educational consultancy. I am also working on automation for industrial process control. 
 
-Prior to these, I worked as an Electrical Engineer at KLA Corporation after my graduation from Northwestern University. You can refer to [Industry Experience](/Industry Experience/) for details. 
+Prior to these, I worked as an Electrical Engineer at KLA Corporation after my graduation from Northwestern University. You can refer to [Industry Experience](/Industry Experience/) for details. 🔬👩‍💻
 
-My degrees span Electrical & Computer Engineering as a Bachelor, concentrating on Robotics , and Physics as a Master, concentrating on Math. You can refer to [link2]() for my math, physics and engineering research. 📚
+My degrees span Electrical & Computer Engineering for Bachelor's, concentrating on Robotics, and Physics for Master's, concentrating on Math. You can refer to [link2]() for my math, physics and engineering research. 📚
 
 I am very excited to create this space to showcase my projects to everyone. Happy Browsing! 
 
