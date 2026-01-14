@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! My name is Chloe Zhu. I worked as an Electrical Engineer at KLA Corporation after my graduation from Northwestern University. You can refer to [Industry Experience](\Industry Experience) for details. 
+Hi everyone! My name is Chloe Zhu. Currently, I am working on developing AI algorithms for unmanned aerial vehicle/drones and for educational consultancy. I am also working on automation for industrial process control.
 
+Prior to these, I worked as an Electrical Engineer at KLA Corporation after my graduation from Northwestern University. You can refer to [Industry Experience](\Industry Experience) for details. 
 
+My degrees span Electrical & Computer Engineering as a Bachelor, concentrating on Robotics , and Physics as a Master, concentrating on Math. You can refer to [link2]() for my math, physics and engineering research. 📚
 
-I majored in Physics in my graduate school, and in Electrical and Computer Engineering in my undergraduate. 📚
+I am very excited to create this space to showcase my projects to everyone. Happy Browsing! 
 
 <!--
 This is the changed front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! 
