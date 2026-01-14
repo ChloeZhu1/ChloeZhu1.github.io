@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! My name is Chloe Zhu. I worked as an Electrical Engineer at KLA Corporation after my graduation from Northwestern University. I designed Mask Qualification Algorithms on Linux servers, for EUV/DUV patterned reticles. I also served as a Subject Matter Expert on the UV Light Measurement System. Moreover, I oversaw manufacturing design and validation of circuits and electronics. Last but not least, I designed physical experiments and data analyses to resolve non-uniform temperature distribution issues arising in plasma-on temperature measurement systems. Additionally, I developed generic testing for low-power temperature tracing microcontrollers.
+Hi everyone! My name is Chloe Zhu. I worked as an Electrical Engineer at KLA Corporation after my graduation from Northwestern University. For software side, I designed Mask Qualification Algorithms on Linux servers, for EUV/DUV patterned reticles. I also served as a Subject Matter Expert on the UV Light Measurement System. Moreover, I oversaw manufacturing design and validation of circuits and electronics. Last but not least, I designed physical experiments and data analyses to resolve non-uniform temperature distribution issues arising in plasma-on temperature measurement systems. Additionally, I developed generic testing for low-power temperature tracing microcontrollers.
 
 
 
