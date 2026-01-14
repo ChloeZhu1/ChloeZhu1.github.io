@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! My name is Chloe Zhu. I worked as an Electrical Engineer at KLA Corporation after my graduation from Northwestern University. I majored in Physics in my graduate school, and in Electrical and Computer Engineering in my undergraduate. 📚
+Hi everyone! My name is Chloe Zhu. I worked as an Electrical Engineer at KLA Corporation after my graduation from Northwestern University. I designed Mask Qualification Algorithms on Linux servers, for EUV/DUV patterned reticles. I also served as a Subject Matter Expert on the UV Light Measurement System. Moreover, I oversaw manufacturing design and validation of circuits and electronics. Last but not least, I designed physical experiments and data analyses to resolve non-uniform temperature distribution issues for plasma on temperature measurement systems. Additionally, I developed a low-power solution for generic temeprture tracing microcontroller testing.
+
+
+
+I majored in Physics in my graduate school, and in Electrical and Computer Engineering in my undergraduate. 📚
 
 <!--
 This is the changed front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! 
