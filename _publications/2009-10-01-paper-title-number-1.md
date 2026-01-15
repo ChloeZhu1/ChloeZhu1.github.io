@@ -11,14 +11,4 @@ paperurl:
 citation:
 ---
 
-<!-- For Hardware, I served as a Subject Matter Expert on the UV Light Measurement System. [link2] Moreover, I oversaw manufacturing design and validation of circuits and electronics. Last but not least, I designed physical experiments and data analyses to resolve non-uniform temperature distribution issues arising in plasma-on temperature measurement systems. Additionally, I developed generic testing for low-power temperature tracing microcontrollers.
 
-<details>
-<summary>Main Section</summary>
-Content for main section.
-<details>
-<summary>Nested Section</summary>
-Content for nested section.
-</details>
-</details>
--->
