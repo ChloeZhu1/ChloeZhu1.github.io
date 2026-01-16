@@ -10,7 +10,7 @@ redirect_from:
 <style>
   p {
     margin: 0;
-    line-height: 1em; /* Adjust this value as needed (e.g., 0.8, 1.2, etc.) */
+    line-height: 0.6em; /* Adjust this value as needed (e.g., 0.8, 1.2, etc.) */
   }
 </style>
 ## Chief Technology Officer, [The Admissions Authority](https://www.theadmissionsauthority.com/), 2024 - present
