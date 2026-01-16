@@ -18,8 +18,7 @@ Computer Vision System Design for Object Tracking from Drones
 ## Co-founder & Principal Engineer, Elemental Automation, 2025 - present
 * Provide automation solutions to industrial process control.
 
-Electrical Engineer, KLA Corporation, 2022 - 2024
-======
+## Electrical Engineer, KLA Corporation, 2022 - 2024
 Software: <br>
 [RAPID](https://www.kla.com/products/reticle-manufacturing), Inspection, KLA <br>
 Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems
