@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 ## Chief Technology Officer, [The Admissions Authority](https://www.theadmissionsauthority.com/), 2024 - present
 * Develop AI-based algorithms for college admission counseling and placement for undergraduate programs, including predicting admissions rate and customizing application strategies. 
