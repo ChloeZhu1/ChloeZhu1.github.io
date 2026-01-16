@@ -15,11 +15,15 @@ Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Syste
 * For Software, I designed Mask Qualification Algorithms on Linux servers, for EUV/DUV patterned reticles. [Teron™ 6xx](https://www.kla.com/products/reticle-manufacturing) (first product on top).
 <!--  <br /> M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
+<br />
 Redesign, Remediation and Support of In Situ Deposition and Anneal UV Light Measurement System 
 * For Hardware, I served as a Subject Matter Expert on the UV Light Measurement System. [UV Wafer™](https://www.kla.com/products/chip-manufacturing/in-situ-process-management)
+<br />
 Manufacturing Design and Supervision of Circuits and Electronics
+<br />
 Resolution of the In Situ Plasma Etch Wafer Temperature Measurement Systems Escalation
-* I designed physical experiments and data analyses to resolve non-uniform temperature distribution issues arising in plasma-on temperature measurement systems.
+* I designed physical experiments, Galil code to control the stage motion, and automated the data collection and analyses to resolve non-uniform temperature distribution issues arising in plasma-on temperature measurement systems.
+<br />
 Generic Testing System Development for TI MSP430 MCUs for Precise Real-time Temperature Tracing
 * I developed generic testing for low-power temperature tracing microcontrollers.
 
