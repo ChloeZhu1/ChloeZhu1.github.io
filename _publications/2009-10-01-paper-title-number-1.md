@@ -1,14 +1,5 @@
 ---
-layout: archive
-title: "Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
----
-permalink: /
 title: "Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems"
 category: manuscripts
 author_profile: true
