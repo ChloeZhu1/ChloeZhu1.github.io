@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /publication/2009-10-01-paper-title-number-1
 title: "Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems"
 category: manuscripts
 author_profile: true
