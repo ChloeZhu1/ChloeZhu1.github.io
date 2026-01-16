@@ -9,8 +9,11 @@
 
 main:
   - title: "Industry Experience"
+    url: /cv/
+    
+  - title: "Publications"
     url: /publications/
-
+    
   - title: "Academia Experience"
     url: /talks/    
 
@@ -23,8 +26,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ 
     
   # - title: "CV"
   #   url: /cv-json/
