@@ -26,8 +26,11 @@ Software:
 Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems
 * I designed Mask Qualification Algorithms on Linux servers, for EUV/DUV patterned reticles. [Teron™ 6xx](https://www.kla.com/products/reticle-manufacturing) (first product on top).
 
+
 Hardware:
+
 [Sensarray](https://www.kla.com/products/chip-manufacturing/in-situ-process-management), Metrology, KLA
+
 Redesign, Remediation and Support of In Situ Deposition and Anneal UV Light Measurement System 
 * I served as a Subject Matter Expert on the UV Light Measurement System. [UV Wafer™](https://www.kla.com/products/chip-manufacturing/in-situ-process-management)
   
