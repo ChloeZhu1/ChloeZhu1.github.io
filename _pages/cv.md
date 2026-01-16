@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-KLA Corporation
+# KLA Corporation
 ======
 ## Software: 
 ### Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems
