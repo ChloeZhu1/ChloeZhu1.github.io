@@ -12,7 +12,7 @@ redirect_from:
 KLA Corporation
 ======
 ## Software: 
-Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems
+### Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems
 * I designed Mask Qualification Algorithms on Linux servers, for EUV/DUV patterned reticles. [Teron™ 6xx](https://www.kla.com/products/reticle-manufacturing) (first product on top).
 <!--  <br /> M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
