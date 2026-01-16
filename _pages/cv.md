@@ -19,8 +19,8 @@ Computer Vision System Design for Object Tracking from Drones
 * Provide automation solutions to industrial process control.
 
 ## Electrical Engineer, KLA Corporation, 2022 - 2024
-Software: <br>
-[RAPID](https://www.kla.com/products/reticle-manufacturing), Inspection, KLA <br>
+Software:
+[RAPID](https://www.kla.com/products/reticle-manufacturing), Inspection, KLA
 Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems
 * I designed Mask Qualification Algorithms on Linux servers, for EUV/DUV patterned reticles. [Teron™ 6xx](https://www.kla.com/products/reticle-manufacturing) (first product on top).
 
