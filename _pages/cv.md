@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Chief Information Officer, [The Admissions Authority](https://www.theadmissionsauthority.com/), 2024 - present
+Chief Technology Officer, [The Admissions Authority](https://www.theadmissionsauthority.com/), 2024 - present
 ======
 * Develop AI-based algorithms for college admission counseling and placement for undergraduate programs, including predicting admissions rate and customizing application strategies. 
 
@@ -23,13 +23,13 @@ Co-founder & Principal Engineer, Elemental Automation, 2025 - present
 
 Electrical Engineer, KLA Corporation, 2022 - 2024
 ======
-Software: 
-[RAPID](https://www.kla.com/products/reticle-manufacturing), Inspection, KLA
+Software: <br>
+[RAPID](https://www.kla.com/products/reticle-manufacturing), Inspection, KLA <br>
 Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems
 * I designed Mask Qualification Algorithms on Linux servers, for EUV/DUV patterned reticles. [Teron™ 6xx](https://www.kla.com/products/reticle-manufacturing) (first product on top).
 
 Hardware:
-[Sensarray](https://www.kla.com/products/chip-manufacturing/in-situ-process-management), Metrology, KLA 
+[Sensarray](https://www.kla.com/products/chip-manufacturing/in-situ-process-management), Metrology, KLA <br>
 Redesign, Remediation and Support of In Situ Deposition and Anneal UV Light Measurement System 
 * I served as a Subject Matter Expert on the UV Light Measurement System. [UV Wafer™](https://www.kla.com/products/chip-manufacturing/in-situ-process-management)
   
