@@ -29,7 +29,7 @@ Generic Testing System Development for TI MSP430 MCUs for Precise Real-time Temp
 * I developed generic testing for low-power temperature tracing microcontrollers.
 
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -71,7 +71,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
