@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Chief Technology Officer, [The Admissions Authority](https://www.theadmissionsauthority.com/), 2024 - present
-======
+## Chief Technology Officer, [The Admissions Authority](https://www.theadmissionsauthority.com/), 2024 - present
 * Develop AI-based algorithms for college admission counseling and placement for undergraduate programs, including predicting admissions rate and customizing application strategies. 
 
 Algorithm Engineer, AI-Drone Technology LLC, 2024 - present
