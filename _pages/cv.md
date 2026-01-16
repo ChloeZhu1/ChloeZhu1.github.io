@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# KLA Corporation
+## KLA Corporation
 ### Software: 
 ### Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems
 * I designed Mask Qualification Algorithms on Linux servers, for EUV/DUV patterned reticles. [Teron™ 6xx](https://www.kla.com/products/reticle-manufacturing) (first product on top).
@@ -16,12 +16,13 @@ redirect_from:
 ### Hardware:
 ### Redesign, Remediation and Support of In Situ Deposition and Anneal UV Light Measurement System 
 * I served as a Subject Matter Expert on the UV Light Measurement System. [UV Wafer™](https://www.kla.com/products/chip-manufacturing/in-situ-process-management)
+  
 ### Resolution of the In Situ Plasma Etch Wafer Temperature Measurement Systems Escalation
 * I designed physical experiments, Galil code to control the stage motion, and automated the data collection and analyses to resolve non-uniform temperature distribution issues arising in plasma-on temperature measurement systems.
 
-Manufacturing Design and Supervision of Circuits and Electronics
+### Manufacturing Design and Supervision of Circuits and Electronics
 
-Generic Testing System Development for TI MSP430 MCUs for Precise Real-time Temperature Tracing
+### Generic Testing System Development for TI MSP430 MCUs for Precise Real-time Temperature Tracing
 * I developed generic testing for low-power temperature tracing microcontrollers.
 
 
