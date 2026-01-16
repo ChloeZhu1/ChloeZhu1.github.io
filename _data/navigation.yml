@@ -9,13 +9,16 @@
 
 main:
   - title: "Industry Experience"
-    url: /cv/
+    url: /industry-experience/
     
   - title: "Academia Experience"
     url: /talks/    
 
   - title: "Publications"
     url: /publications/
+
+  - title: "CV"
+    url: /cv/
     
   - title: "Teaching"
     url: /teaching/    
