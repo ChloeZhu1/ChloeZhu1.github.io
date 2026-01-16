@@ -1,5 +1,5 @@
 ---
-permalink: /cv/
+permalink: /
 title: "Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems"
 category: manuscripts
 author_profile: true
