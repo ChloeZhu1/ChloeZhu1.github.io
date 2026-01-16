@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+KLA Corporation
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Mask Qualification Algorithm Design of Teron 6xx Reticle Defect Inspection Systems
+* For Software, I designed Mask Qualification Algorithms on Linux servers, for EUV/DUV patterned reticles. [Teron™ 6xx](https://www.kla.com/products/reticle-manufacturing) (first product on top).
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
