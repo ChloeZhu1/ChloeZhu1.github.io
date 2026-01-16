@@ -15,8 +15,7 @@ redirect_from:
 Computer Vision System Design for Object Tracking from Drones 
 * I developed a deep-learning based computer vision algorithm to detect, track and keep a fixed distance to the moving/non-moving objects, and optimized the code in order to be embedded in low power consumption CPUs such as ARM based architecture.
 
-Co-founder & Principal Engineer, Elemental Automation, 2025 - present
-======
+## Co-founder & Principal Engineer, Elemental Automation, 2025 - present
 * Provide automation solutions to industrial process control.
 
 Electrical Engineer, KLA Corporation, 2022 - 2024
