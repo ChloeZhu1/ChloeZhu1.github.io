@@ -10,8 +10,11 @@
 main:
   - title: "Industry Experience"
     url: /industry-experience/
+
+  - title: "Research Experience"
+    url: /research-experience/
     
-  - title: "Academia Experience"
+  - title: "Talks"
     url: /talks/    
 
   - title: "Publications"
