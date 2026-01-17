@@ -8,6 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 ## Math Research
+Independent Studies on Geometric Analysis
 * Develop AI-based algorithms for college admission counseling and placement for undergraduate programs, including predicting admissions rate and customizing application strategies. 
 
 ## Algorithm Engineer, AI-Drone Technology LLC, 2024 - present
