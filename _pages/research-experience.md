@@ -12,8 +12,8 @@ Independent Studies on Geometric Analysis
 * 
 
 ![skyrmions](images/skyrmions.jpg)
-<img src="images/skyrmions.jpg"
-     style="max-width: 100%; height: auto;">
+<!-- <img src="images/skyrmions.jpg"
+     style="max-width: 100%; height: auto;"> -->
 
 ## Algorithm Engineer, AI-Drone Technology LLC, 2024 - present
 Computer Vision System Design for Object Tracking from Drones 
