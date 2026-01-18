@@ -11,6 +11,11 @@ redirect_from:
 Independent Studies on Geometric Analysis
 * 
 
+![skyrmions](skyrmions.jpg)
+<img src="/assets/images/profile.jpg"
+     alt="Profile photo"
+     style="max-width: 100%; height: auto;">
+
 ## Algorithm Engineer, AI-Drone Technology LLC, 2024 - present
 Computer Vision System Design for Object Tracking from Drones 
 * I developed a deep-learning based computer vision algorithm to detect, track and keep a fixed distance to the moving/non-moving objects, and optimized the code in order to be embedded in low power consumption CPUs such as ARM based architecture.
