@@ -10,7 +10,7 @@ redirect_from:
 ## Math Research
 Independent Studies on Geometric Analysis
 * test23j
-![Skyrmions](/images/skyrmions.jpg)
+[![Skyrmions](/images/skyrmions.jpg)](/math.md)
 
 
 
