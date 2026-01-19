@@ -11,7 +11,7 @@ redirect_from:
 Independent Studies on Geometric Analysis
 * 
 
-![skyrmions](base_path/images/skyrmions.jpg)
+[![skyrmions](base_path/images/skyrmions.jpg)](base_path/pages/math.md)
 
 
 ## Algorithm Engineer, AI-Drone Technology LLC, 2024 - present
