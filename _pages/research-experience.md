@@ -11,7 +11,7 @@ redirect_from:
 Independent Studies on Geometric Analysis
 * test23j
 
-![skyrmions](ChloeZhu1.github.io/images/images/skyrmions.jpg)
+
 
 
 ## Algorithm Engineer, AI-Drone Technology LLC, 2024 - present
