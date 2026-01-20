@@ -8,7 +8,10 @@ redirect_from:
 --- 
 -->
 ---
+layout: archive
 title: "sky"
+permalink: /math/
+author_profile: true
 excerpt: "skyr image"
 collection: portfolio
 ---
