@@ -8,7 +8,8 @@ redirect_from:
 --- 
 
 {% include base_path %}
-## [Skyrmions](https://chloezhu1.github.io/research-experience/#section-title1)
+<a href="#section-title1">Skyrmions</a>
+<!-- ## [Skyrmions](https://chloezhu1.github.io/research-experience/#section-title1) -->
 ![Skyrmions](/images/skyrmions.jpg)
 * Imagine a field of arrows all pointing upward. Now take one small spot and gently twist the arrows so that:
   * At the center, the arrow points down
