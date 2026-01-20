@@ -8,11 +8,14 @@ redirect_from:
 --- 
 
 {% include base_path %}
-## sky
+## Skyrmions
 ![Skyrmions](/images/skyrmions.jpg)
-* Physically, a chiral skyrmion is a tiny, stable swirling pattern inside a magnetic material, where the direction of magnetization twists in a fixed handed way - like a microscopic magnetic whirlpool.
-* Because skyrmions are small, stable, and easy to move, they're promising candidates for next-generation low-power magnetic memory.
-* I studied and presented the non-trivial minimizer to the Chiral Skyrmions energy functional and its links to Machine Learning
+* Imagine a field of arrows all pointing upward. Now take one small spot and gently twist the arrows so that:
+  * At the center, the arrow points down
+  * Moving outward, the arrows rotate smoothly
+  * Far away, everything points up again
+  The small knot formed by this twist is known as a skyrmion. It's chiral because the arrows always twist left-handed or right-handed, which one can't easily "untwist" without tearing the pattern apart. This makes skyrmions very stable.      
+* Because skyrmions are stable, tiny (nanometers across), and easy to move, they're promising candidates for next-generation low-power magnetic memory.
 
 <br>
 <br>
