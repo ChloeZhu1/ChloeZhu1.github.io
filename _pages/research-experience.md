@@ -11,7 +11,7 @@ redirect_from:
 Independent Studies on Geometric Analysis
 * [skyrmion image](/math/)
 
-[slide](/files/Chiral Skyrmions Research Summary_Chloe.pdf)
+[slide](/files/Chiral Skyrmions Research Summary_Chloe.pdf)   [paper](/files/paper2.pdf)
 
 
 
