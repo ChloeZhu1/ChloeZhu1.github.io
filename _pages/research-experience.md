@@ -14,7 +14,7 @@ Chiral skyrmions in the plane
 * By studying skyrmions, we can transfer the same technique to machine learning optimization problems. For example, applying the "mountain
 pass" saddle point method to optimize functionals’ critical values.
 
-[slide](/files/Chiral Skyrmions Research Summary_Chloe.pdf)
+[Skyrmion Paper](/files/Chiral Skyrmions Research Summary_Chloe.pdf)
 
 [Skyrmions](/math/)
 
