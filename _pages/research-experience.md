@@ -10,7 +10,7 @@ redirect_from:
 ## Math Research
 Chiral skyrmions in the plane
 * Mathematically, chiral skyrmions arise as minimizers of a critical harmonic-map energy perturbed by a symmetry-breaking linear term.
-* I studied and presented the non-trivial minimizers to the chiral skyrmions energy functional, using concentration-compactness ( the Zeeman term $\frac{\mathcal{h}}{2} \int \|m-e_3\|^2$ ) to restore compactness (preventing energy from drifting to infinity).
+* I studied and presented the non-trivial minimizers to the chiral skyrmions energy functional, using concentration-compactness (the Zeeman term $\frac{\mathcal{h}}{2} \int \|m-e_3\|^2$) to restore compactness (preventing energy from drifting to infinity).
 * By studying skyrmions, we can transfer the same technique to machine learning optimization problems. For example, applying the "mountain
 pass" saddle point method to optimize functionals’ critical values.
 <br>
