@@ -8,7 +8,12 @@ redirect_from:
 ---
 {% include base_path %}
 ## Math Research
-Independent Studies on Geometric Analysis
+Chiral skyrmions in the plane
+* Mathematically, chiral skyrmions arise as minimizers of a critical harmonic-map energy perturbed by a symmetry-breaking linear term.
+* I studied and presented the non-trivial minimizers to the chiral skyrmions energy functional, using concentration-compactness (the Zeeman term $\frac{\mathcal{h}}{2} \int \|m-e_3\|^2$ ) to restore compactness (preventing energy from drifting to infinity, or enforcing tightness of minimizing sequences).
+* Physically, a chiral skyrmion is a tiny, stable swirling pattern inside a magnetic material, where the direction of magnetization twists in a fixed handed way - like a microscopic magnetic whirlpool.
+* Because skyrmions are small, stable, and easy to move, they're promising candidates for next-generation low-power magnetic memory.
+* I studied and presented the non-trivial minimizer to the Chiral Skyrmions energy functional and its links to Machine Learning
 * [skyrmion image](/math/)
 
 [slide](/files/Chiral Skyrmions Research Summary_Chloe.pdf)   [paper](/files/paper2.pdf)
