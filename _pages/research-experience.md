@@ -9,8 +9,7 @@ redirect_from:
 {% include base_path %}
 ## Math Research
 Independent Studies on Geometric Analysis
-* test23j
-[![Skyrmions](/images/skyrmions.jpg)](/math/)
+* [skyrmion image](/math/)
 
 
 
