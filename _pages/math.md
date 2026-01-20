@@ -1,4 +1,4 @@
-<!--
+---
 layout: archive
 title: ""
 permalink: /math/
@@ -6,15 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 --- 
--->
----
-layout: archive
-title: "sky"
-permalink: /math/
-author_profile: true
-excerpt: "skyr image"
-collection: portfolio
----
+
 {% include base_path %}
 
 ![Skyrmions](/images/skyrmions.jpg)
