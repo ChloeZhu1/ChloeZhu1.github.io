@@ -16,7 +16,7 @@ Independent Studies on Geometric Analysis
 
 ## Algorithm Engineer, AI-Drone Technology LLC, 2024 - present
 Computer Vision System Design for Object Tracking from Drones 
-* I developed a deep-learning based computer vision algorithm to detect, track and keep a fixed distance to the moving/non-moving objects, and optimized the code in order to be embedded in low power consumption CPUs such as ARM based architecture. [markdown test](<a href="math.html#section2">Jump to Section 2 on another page</a>)
+* I developed a deep-learning based computer vision algorithm to detect, track and keep a fixed distance to the moving/non-moving objects, and optimized the code in order to be embedded in low power consumption CPUs such as ARM based architecture. [markdown test](https://chloezhu1.github.io/research-experience/math.html#proj2)
 
 ## Co-founder & Principal Engineer, Elemental Automation, 2025 - present
 * Provide automation solutions to industrial process control.
