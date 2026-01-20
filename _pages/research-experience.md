@@ -15,6 +15,7 @@ Chiral skyrmions in the plane
 pass" saddle point method to optimize functionals’ critical values.
 
 [slide](/files/Chiral Skyrmions Research Summary_Chloe.pdf)
+
 [Skyrmions](/math/)
 
 
