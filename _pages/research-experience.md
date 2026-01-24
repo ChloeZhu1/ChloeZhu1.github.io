@@ -18,8 +18,8 @@ pass" saddle point method to optimize functionals’ critical values.
 <br>
 [Skyrmions Image & Description](/math/)
 
-
-
+<h2 id="section-title2">Harmonic Analysis in Partial Differential Equations</h2>
+* In superconductivity, Ginzburg–Landau is a phenomenological theory describing a material near its critical temperature. London penet
 
 
 ## Algorithm Engineer, AI-Drone Technology LLC, 2024 - present
