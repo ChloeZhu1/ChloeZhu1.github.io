@@ -24,8 +24,8 @@ pass" saddle point method to optimize functionals’ critical values.
 <br>
 [Presentation](/files/Fangjun_Bonn_Presentation.pdf) (Please see the first half "Harmonic Analysis in PDE")
 
-<h2 id="topoi">[Indepedent Study on Topology]((https://chloezhu1.github.io/math/#topdetails))</h2>
-* I studied the invariants of the complements of complex hypersurfaces by analyzing the topology of $\mathbb{C}^2$\$\mathit{C}$ through localized homology and linking number constructions.
+<h2 id="topoi">Indepedent Study on Topology</h2>
+* I studied the [invariants of the complements of complex hypersurfaces](https://chloezhu1.github.io/math/topdetails) by analyzing the topology of $\mathbb{C}^2$\$\mathit{C}$ through localized homology and linking number constructions.
 * By isolating a canonical linking direction and localizing the associated group ring, I define an invariant $\delta_0(\mathit{C})$ that measures the size of first homology in a way that is stable under deformation. 
 * I showed that, when finite, this invariant coincides with the degree of the Alexander polynomial, providing a conceptual and computable bridge between homological and classical polynomial invariants.
 <br>
