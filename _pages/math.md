@@ -35,7 +35,7 @@ redirect_from:
 <br>
 
 <!-- <h2 id="section2">## proj2</h2> -->
-<h2 id="section-title">## Ginzburg-Laudau</h2>
+<h2 id="section-title">Ginzburg-Laudau</h2>
 One Studies a complex field
 
 $u:\ \Omega \subset \mathbb{R}^n \rightarrow \mathbb{C}$
