@@ -39,7 +39,7 @@ $E_{\epsilon}(u) = \int_\Omega \frac{1}{2}\|\nabla u\|^2+\frac{1}{4{\epsilon}^2}
 where the equations imply div(Im($\bar{u}\nabla u$)) $= 0$
 * div(Im($\bar{u}\nabla u$)) = 0             $\Rightarrow$            $\rho^2\|\nabla \varphi\|^2 \in \mathit{H}^1$
   * oscillation $\neq$ noise
-  * oscillation = noise + conservation
+  * oscillation = topology + conservation
 * This beautifully unifies the Hardy/BMO section with GL.
   
 <a href="https://chloezhu1.github.io/research-experience/#PDE">Harmonic Analysis in PDE</a>
