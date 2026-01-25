@@ -38,11 +38,11 @@ redirect_from:
 ## [Ginzburg-Laudau](https://chloezhu1.github.io/research-experience/#section-title)
 One Studies a complex field
 
-$u:\ \Omega \subset \mathcal{R}^n \rightarrow \mathcal{C}$
+$u:\ \Omega \subset \mathbb{R}^n \rightarrow \mathbb{C}$
 
 and the Ginzburg-Landau energy
 
-$\mathcal{E}_{\epsilon}(u) = \int_\Omega \frac{1}{2}\|\grad u\|^2+\frac{1}{4{\epsilon}}^2(1-\|u\|^2)^2 dx$
+$E_{\epsilon}(u) = \int_\Omega \frac{1}{2}\|\nabla u\|^2+\frac{1}{4{\epsilon}}^2(1-\|u\|^2)^2 dx$
 * Ginzburg–Landau theory is a variational model for phase transitions and superconductivity that captures how coherence, topology, and energy compete at multiple scales.
-* If $u$ takes values in the complex plane $\mathcal{C}$, then $u$ can describe the wavefunction for a “fluid” of Cooper pairs in a superconductor.
+* If $u$ takes values in the complex plane $\mathbb{C}$, then $u$ can describe the wavefunction for a “fluid” of Cooper pairs in a superconductor.
 * $\|u\|^2$ is the superconducting density.
