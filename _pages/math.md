@@ -44,11 +44,15 @@ and the Ginzburg-Landau energy
 
 $E_{\epsilon}(u) = \int_\Omega \frac{1}{2}\|\nabla u\|^2+\frac{1}{4{\epsilon}^2}(1-\|u\|^2)^2\ dx$
 
-<p style="text-align: left;"> 
-<ul><li>In superconductivity, Ginzburg–Landau is a phenomenological theory describing a material near its critical temperature.</li></ul>
-</p>
-* If $u$ takes values in the complex plane $\mathbb{C}$, then $u$ can describe the wavefunction for a “fluid” of Cooper pairs in a superconductor.
-* $\|u\|^2$ is the superconducting density.
+<!-- <p style="text-align: left;"> -->
+* In superconductivity, Ginzburg–Landau is a phenomenological theory describing a material near its critical temperature. If $u$ takes values in the complex plane $\mathbb{C}$, then $u$ can describe the wavefunction for a “fluid” of Cooper pairs in a superconductor. $\|u\|^2$ is the superconducting density.
+* This research sits at the interface of harmonic analysis and nonlinear PDE, and it’s motivated by a very concrete failure of compactness. In many geometric and physical PDEs — like Ginzburg-Landau — we only have weak $L^2$ control on gradients, while the quantities of interest are nonlinear and should not converge under weak limits.
+* From the Ginzburg-Landau equations, when separating their amplitude and phase, one encounters the term
+
+  $\rho^2\|\nabla \phi\|^2 = \nabla \phi \dot Im(\bar{u}\nabla u)$
+
+where the equations imply div(Im($\bar{u}\nabla u$)) $= 0$
+* div(Im($\bar{u}\nabla u$)) $= 0$ $\Rightarrow$ $\rho^2\|\nabla \phi\|^2 \in H^1$
 
   
 [back](https://chloezhu1.github.io/research-experience/#PDE)
