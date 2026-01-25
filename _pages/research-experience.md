@@ -19,12 +19,12 @@ pass" saddle point method to optimize functionals’ critical values.
 [Skyrmions Image & Description](/math/)
 
 <h2 id="section-title2">Harmonic Analysis in Partial Differential Equations</h2>
-* In superconductivity, Ginzburg–Landau is a phenomenological theory describing a material near its critical temperature. London penet
+* In superconductivity, [Ginzburg–Landau](https://chloezhu1.github.io/math/#section-title) is a phenomenological theory describing a material near its critical temperature.
 
 
 ## Algorithm Engineer, AI-Drone Technology LLC, 2024 - present
 Computer Vision System Design for Object Tracking from Drones 
-* I developed a deep-learning based computer vision algorithm to detect, track and keep a fixed distance to the moving/non-moving objects, and optimized the code in order to be embedded in low power consumption CPUs such as ARM based architecture. [markdown test](https://chloezhu1.github.io/math/#section-title)
+* I developed a deep-learning based computer vision algorithm to detect, track and keep a fixed distance to the moving/non-moving objects, and optimized the code in order to be embedded in low power consumption CPUs such as ARM based architecture.
 
 ## Co-founder & Principal Engineer, Elemental Automation, 2025 - present
 * Provide automation solutions to industrial process control.
