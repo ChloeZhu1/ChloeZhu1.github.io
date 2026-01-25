@@ -44,7 +44,9 @@ and the Ginzburg-Landau energy
 
 $E_{\epsilon}(u) = \int_\Omega \frac{1}{2}\|\nabla u\|^2+\frac{1}{4{\epsilon}^2}(1-\|u\|^2)^2\ dx$
 
-<p style="text-align: left;">* In superconductivity, Ginzburg–Landau is a phenomenological theory describing a material near its critical temperature.</p>
+<p style="text-align: left;"> 
+<ul>In superconductivity, Ginzburg–Landau is a phenomenological theory describing a material near its critical temperature.</ul>
+</p>
 * If $u$ takes values in the complex plane $\mathbb{C}$, then $u$ can describe the wavefunction for a “fluid” of Cooper pairs in a superconductor.
 * $\|u\|^2$ is the superconducting density.
 
