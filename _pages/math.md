@@ -43,6 +43,7 @@ $u:\ \Omega \subset \mathbb{R}^n \rightarrow \mathbb{C}$
 and the Ginzburg-Landau energy
 
 $E_{\epsilon}(u) = \int_\Omega \frac{1}{2}\|\nabla u\|^2+\frac{1}{4{\epsilon}^2}(1-\|u\|^2)^2\ dx$
+
 * Ginzburg–Landau theory is a variational model for phase transitions and superconductivity that captures how coherence, topology, and energy compete at multiple scales.
 * If $u$ takes values in the complex plane $\mathbb{C}$, then $u$ can describe the wavefunction for a “fluid” of Cooper pairs in a superconductor.
 * $\|u\|^2$ is the superconducting density.
