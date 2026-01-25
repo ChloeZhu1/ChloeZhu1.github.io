@@ -34,7 +34,7 @@ $E_{\epsilon}(u) = \int_\Omega \frac{1}{2}\|\nabla u\|^2+\frac{1}{4{\epsilon}^2}
 * This research sits at the interface of harmonic analysis and nonlinear PDE, and it’s motivated by a very concrete failure of compactness. In many geometric and physical PDEs — like Ginzburg-Landau — we only have weak $L^2$ control on gradients, while the quantities of interest are nonlinear and should not converge under weak limits.
 * From the Ginzburg-Landau equations, when separating their amplitude and phase, one encounters the term
 
-  $\rho^2\|\nabla \varphi\|^2 = \nabla \varphi \cdot Im(\bar{u}\nabla u)$
+  $\rho^2\|\nabla \varphi\|^2$ = $\nabla \varphi \cdot$ Im($\bar{u}\nabla u)$
 
 where the equations imply div(Im($\bar{u}\nabla u$)) $= 0$
 * div(Im($\bar{u}\nabla u$)) = 0             $\Rightarrow$            $\rho^2\|\nabla \varphi\|^2 \in \mathit{H}^1$
