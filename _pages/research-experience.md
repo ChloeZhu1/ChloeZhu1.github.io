@@ -19,7 +19,7 @@ pass" saddle point method to optimize functionals’ critical values.
 [Skyrmions Image & Description](/math/)
 
 <h2 id="PDE">Harmonic Analysis in Partial Differential Equations</h2>
-* I used a div-curl structure from [Ginzburg-Landau](/math/) to restore compactness, which allows products of weakly convergent quantities to land in Hardy space.
+* I used a div-curl structure from [Ginzburg-Landau](https://chloezhu1.github.io/math/#section-title) to restore compactness, which allows products of weakly convergent quantities to land in Hardy space.
 * By showing that certain nonlinear quantities actually lie in Hardy space $\mathit{H}^1$, I can pass to limits in a function space dual to VMO, rather than collapsing to measures.
 
 ## Algorithm Engineer, AI-Drone Technology LLC, 2024 - present
