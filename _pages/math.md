@@ -43,3 +43,5 @@ where the equations imply div(Im($\bar{u}\nabla u$)) $= 0$
 * This beautifully unifies the Hardy/BMO section with GL.
   
 <a href="https://chloezhu1.github.io/research-experience/#PDE">Harmonic Analysis in PDE</a>
+
+<h2 id="topdetails">Invariants of Hypersurface Complememts</h2>
