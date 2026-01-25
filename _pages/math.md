@@ -52,7 +52,10 @@ $E_{\epsilon}(u) = \int_\Omega \frac{1}{2}\|\nabla u\|^2+\frac{1}{4{\epsilon}^2}
   $\rho^2\|\nabla \phi\|^2 = \nabla \phi \dot Im(\bar{u}\nabla u)$
 
 where the equations imply div(Im($\bar{u}\nabla u$)) $= 0$
-* div(Im($\bar{u}\nabla u$)) $= 0$ $\Rightarrow$ $\rho^2\|\nabla \phi\|^2 \in H^1$
+* div(Im($\bar{u}\nabla u$)) $= 0$ $\Rightarrow$ $\rho^2\|\nabla \phi\|^2 \in \mathit{H}^1$
+  * oscillation $\neq$ noise
+  * oscillation = noise + conservation
+* This beautifully unifies the Hardy/BMO section with GL.
 
   
 [back](https://chloezhu1.github.io/research-experience/#PDE)
