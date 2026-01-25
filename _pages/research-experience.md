@@ -18,7 +18,7 @@ pass" saddle point method to optimize functionals’ critical values.
 <br>
 [Skyrmions Image & Description](/math/)
 
-Harmonic Analysis in Partial Differential Equations
+<h2 id="PDE">Harmonic Analysis in Partial Differential Equations</h2>
 * In superconductivity, [Ginzburg–Landau](https://chloezhu1.github.io/math/#section-title) is a phenomenological theory describing a material near its critical temperature.
 
 
