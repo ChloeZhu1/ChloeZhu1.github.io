@@ -41,4 +41,5 @@ where the equations imply div(Im($\bar{u}\nabla u$)) $= 0$
   * oscillation $\neq$ noise
   * oscillation = noise + conservation
 * This beautifully unifies the Hardy/BMO section with GL.
+  
 [Harmonic Analysis in PDE](https://chloezhu1.github.io/research-experience/#PDE)
