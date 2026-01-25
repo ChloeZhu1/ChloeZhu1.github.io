@@ -19,21 +19,6 @@ redirect_from:
   The small knot formed by this twist is known as a skyrmion. It's chiral because the arrows always twist left-handed or right-handed, which one can't easily "untwist" without tearing the pattern apart. This makes skyrmions very stable.      
 * Because skyrmions are stable, tiny (nanometers across), and easy to move, they're promising candidates for next-generation low-power magnetic memory.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <!-- <h2 id="section2">## proj2</h2> -->
 <h2 id="section-title">Ginzburg-Laudau</h2>
 One Studies a complex field
