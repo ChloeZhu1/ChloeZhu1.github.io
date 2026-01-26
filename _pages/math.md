@@ -62,8 +62,8 @@ $\mathbb{C}^2\setminus\mathit{C}$.
 
 [Back](https://chloezhu1.github.io/research-experience/#topoi)
 
-<h2 id="Gdet">Gaussian Measure</h2>
+<h2 id="gdet">Gaussian Measure</h2>
 * A Gaussian measure in infinite dimensions is a probability measure defined by Gaussian behavior of all linear functionals, whose geometry is controlled by a hidden Cameron–Martin Hilbert space rather than translation invariance.
 
-[Back](https://chloezhu1.github.io/research-experience/#Gaus)
+[Back](https://chloezhu1.github.io/research-experience/#gaus)
 
