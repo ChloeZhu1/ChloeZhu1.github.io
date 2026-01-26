@@ -32,7 +32,7 @@ pass" saddle point method to optimize functionals’ critical values.
 [Presentation](/files/Fangjun_Bonn_Presentation.pdf) (Please see the second half "Invariants of Hypersurface Complements")
 
 <h2 id="gaus">Quasi-Invariance and Harmonic Analysis for Gaussian Measures in Infinite Dimensions</h2>
-* I gave a detailed, functional-analytic treatment of the Cameron–Martin theorem, showing that Gaussian measures are quasi-invariant precisely along a distinguished Hilbert subspace — the Cameron–Martin space — and that translations in these directions admit an explicit Radon–Nikodym derivative.
+* I gave a detailed, functional-analytic treatment of the Cameron–Martin theorem, showing that [Gaussian measures](https://chloezhu1.github.io/math/#gdet) are quasi-invariant precisely along a distinguished Hilbert subspace — the Cameron–Martin space — and that translations in these directions admit an explicit Radon–Nikodym derivative.
 * In infinite dimensions, Gaussian measures replace Lebesgue measures in finite dimensions, but Gaussian measures are not invariant under translation. My research answered the question of along which direction translation remains meaningful, and how the measure transforms.
 <br>
 [Paper](/files/Translations of Gaussian Measures for the Infinite Dimensional Segal-Bargmann Representation .pdf)
@@ -41,52 +41,6 @@ pass" saddle point method to optimize functionals’ critical values.
 
 
 
-<!-- Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> 
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
 
 
