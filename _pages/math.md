@@ -45,4 +45,11 @@ where the equations imply div(Im($\bar{u}\nabla u$)) $= 0$
 <a href="https://chloezhu1.github.io/research-experience/#PDE">Harmonic Analysis in PDE</a>
 
 <h2 id="topdetails">Invariants of Hypersurface Complememts</h2>
+I showed that when this invariant is finite, it coincides with the degree of the Alexander polynomial of the hypersurface.
+
+$\delta_0(\mathit{C})$ = deg($\Delta_c$)
+
+where $\delta_0(\mathit{C})$ is defined as $dim_\mathit{K_0} \mathit{H_1}(\mathbb{C^2}\setminus \mathit{C}; \mathit{R_0}), the size of the vector space of first homology of the complement after isolating the essential linking direction.
+
+
 [Back](https://chloezhu1.github.io/research-experience/#topoi)
