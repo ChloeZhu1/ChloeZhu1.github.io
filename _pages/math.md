@@ -50,6 +50,15 @@ I showed that when this invariant is finite, it coincides with the degree of the
 $\delta_0(\mathit{C})$ = deg($\Delta_\mathit{C}$)
 
 where $\delta_0(\mathit{C})$ is defined as $dim_\mathit{K_0} \mathit{H_1}(\mathbb{C^2}\setminus \mathit{C}; \mathit{R_0})$, the size of the vector space of first homology of the complement after isolating the essential linking direction.
+* Because some spaces' fundamental groups are complicated and hard to access directly, I studied topological invariants of the complements of the complex hypersurface. Concretely, I studied complements of plane algebraic curves:
 
+$\mathit{C} = \mathit{Z}(f) \subset \mathbb{C}^2$
+
+and the topology of 
+
+$\mathbb{C}^2\setminus\mathit{C}$.
+* Via the linking number homomorphism,
+$f_*: \pi_1(\mathbb{C}^2\setminus\mathit{C}) \rightarrow \pi_1(\mathbb{C}\setminus \{0\}) \cong \mathbb{Z}$, which measures how loops in the complement wind around the hypersurface.
+* This work provides a homological interpretation of the degree of the Alexander polynomial.
 
 [Back](https://chloezhu1.github.io/research-experience/#topoi)
