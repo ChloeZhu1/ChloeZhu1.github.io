@@ -67,7 +67,7 @@ $\mathbb{C}^2\setminus\mathit{C}$.
 
 It is closely related to Harmonic Analysis in that my research studied how function spaces built on those measures behave, and how symmetry survives in infinite dimensions. It investigated representations of groups (here, translations) on function spaces. 
 
-Gaussian measures arise as invariant measures of infinite-dimensional elliptic operators, and the Cameron–Martin space identifies the finite-energy directions along which transport and heat equations remain well posed.
+For Partial Differential Equation applications, Gaussian measures arise as invariant measures of infinite-dimensional elliptic operators, and the Cameron–Martin space identifies the finite-energy directions along which transport and heat equations remain well posed.
 
 [Back](https://chloezhu1.github.io/research-experience/#gaus)
 
