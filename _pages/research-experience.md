@@ -35,7 +35,7 @@ pass" saddle point method to optimize functionals’ critical values.
 * I gave a detailed, functional-analytic treatment of the Cameron–Martin theorem, showing that Gaussian measures are quasi-invariant precisely along a distinguished Hilbert subspace — the Cameron–Martin space — and that translations in these directions admit an explicit Radon–Nikodym derivative.
 * In infinite dimensions, Gaussian measures replace Lebesgue measures in finite dimensions, but Gaussian measures are not invariant under translation. My research answered the question of along which direction translation remains meaningful, and how the measure transforms.
 <br>
-[Paper](/files/Translations of Gaussian Measures for the Infinite Dimensional Segal-Bargmann Representation.pdf)
+[Paper](/files/Translations of Gaussian Measures for the Infinite Dimensional Segal-Bargmann Representation .pdf)
 
 
 
