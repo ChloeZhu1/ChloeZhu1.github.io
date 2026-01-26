@@ -65,5 +65,9 @@ $\mathbb{C}^2\setminus\mathit{C}$.
 <h2 id="gdet">Gaussian Measure</h2>
 * A Gaussian measure in infinite dimensions is a probability measure defined by Gaussian behavior of all linear functionals, whose geometry is controlled by a hidden Cameron–Martin Hilbert space rather than translation invariance.
 
+It is closely related to Harmonic Analysis in that my research studied how function spaces built on those measures behave, and how symmetry survives in infinite dimensions. It investigated representations of groups (here, translations) on function spaces. 
+
+Gaussian measures arise as invariant measures of infinite-dimensional elliptic operators, and the Cameron–Martin space identifies the finite-energy directions along which transport and heat equations remain well posed.
+
 [Back](https://chloezhu1.github.io/research-experience/#gaus)
 
