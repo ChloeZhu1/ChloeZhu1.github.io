@@ -58,7 +58,7 @@ and the topology of
 
 $\mathbb{C}^2\setminus\mathit{C}$.
 * Via the linking number homomorphism,
-$f_*: \pi_1(\mathbb{C}^2\setminus\mathit{C}) \rightarrow \pi_1(\mathbb{C}\setminus \{0\}) \cong \mathbb{Z}$, which measures how loops in the complement wind around the hypersurface.
+$f_*: \pi_1(\mathbb{C}^2\setminus\mathit{C}) \rightarrow \pi_1(\mathbb{C}\setminus {0}) \cong \mathbb{Z}$, which measures how loops in the complement wind around the hypersurface.
 * This work provides a homological interpretation of the degree of the Alexander polynomial.
 
 [Back](https://chloezhu1.github.io/research-experience/#topoi)
