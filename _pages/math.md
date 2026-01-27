@@ -71,3 +71,10 @@ For Partial Differential Equation applications, Gaussian measures arise as invar
 
 [Back](https://chloezhu1.github.io/research-experience/#gaus)
 
+<h2 id="rie">Additional Topics</h2>
+* Connections and covariant derivatives on vector bundles.
+* Seiberg-Witten equations.
+* Sheaf theory and algebraic geometry (Spec($R$) and structure sheaves).
+
+[Heat Equations and Harmonic Analysis on Manifolds](https://chloezhu1.github.io/research-experience/#riepde)
+
