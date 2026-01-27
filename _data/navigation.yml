@@ -13,6 +13,9 @@ main:
 
   - title: "Research Experience"
     url: /research-experience/
+
+  - title: "Math Research"
+    url: /math/
     
   - title: "Talks"
     url: /talks/    
