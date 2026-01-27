@@ -37,6 +37,11 @@ pass" saddle point method to optimize functionals’ critical values.
 <br>
 [Paper](/files/Translations of Gaussian Measures for the Infinite Dimensional Segal-Bargmann Representation .pdf)
 
+<h2 id="writ">Heat Equations and Harmonic Analysis on Manifolds</h2>
+* I studied the Laplace equation ($\Delta u =  f$) and the heat equation ($\partial_t u - \Delta u = f$), on Riemannian manifolds.
+* I constructed Green's functions on both compact manifolds with boundary and complete non-compact manifolds, developed the theory using level sets of Green's functions as substitutes for Euclidean balls, and accounted for geometric effects like Ricci curvature in gradient estimates.
+<br>
+[Paper](/files/Heat_eqns Inves.pdf)
 
 
 
