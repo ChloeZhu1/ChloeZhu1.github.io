@@ -43,7 +43,7 @@ pass" saddle point method to optimize functionals’ critical values.
 <br>
 [Paper](/files/Heat_eqns Inves.pdf)
 <br>
-[Details](/math/https://chloezhu1.github.io/math/#rie)
+[Details](https://chloezhu1.github.io/math/#rie)
 
 
 
