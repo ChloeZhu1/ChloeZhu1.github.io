@@ -46,7 +46,7 @@ where the equations imply div(Im($\bar{u}\nabla u$)) $= 0$
 
 <h2 id="topdetails">Invariants of Hypersurface Complememts</h2>
 <figure markdown>
-  ![Trefoil Knot](/images/trefoil.png){ width="300" }
+  ![Trefoil Knot](/images/trefoil.png)
   <figcaption>The trefoil knot is tricolorable.</figcaption>
 </figure>
 
