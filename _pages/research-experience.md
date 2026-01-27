@@ -42,7 +42,8 @@ pass" saddle point method to optimize functionals’ critical values.
 * I constructed Green's functions on both compact manifolds with boundary and complete non-compact manifolds, developed the theory using level sets of Green's functions as substitutes for Euclidean balls, and accounted for geometric effects like Ricci curvature in gradient estimates.
 <br>
 [Paper](/files/Heat_eqns Inves.pdf)
-
+<br>
+[Details](/math/https://chloezhu1.github.io/math/#rie)
 
 
 
