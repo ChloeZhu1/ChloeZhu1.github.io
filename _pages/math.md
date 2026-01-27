@@ -76,5 +76,5 @@ For Partial Differential Equation applications, Gaussian measures arise as invar
 * Seiberg-Witten equations.
 * Sheaf theory and algebraic geometry (Spec($R$) and structure sheaves).
 
-[Heat Equations and Harmonic Analysis on Manifolds](https://chloezhu1.github.io/research-experience/#riepde)
+[Heat Equations and Harmonic Analysis on Manifolds](https://chloezhu1.github.io/research-experience/#writ)
 
