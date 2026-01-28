@@ -63,12 +63,12 @@ Methods & Tools
 <h2 id="dp">Double Pendulum Dynamics</h2>
 * The [double pendulum](https://chloezhu1.github.io/physics-and-engineering-research/#dpa) is a simple mechanical system whose equations of motion are nonlinear and highly sensitive to initial conditions. Despite being governed by deterministic ODEs, its dynamics exhibit chaotic behavior, making it a canonical example for studying instability, energy conservation, and long-time numerical integration.
 <br>
-[github](https://github.com/ChloeZhu1/computational-physics)
+[Github](https://github.com/ChloeZhu1/computational-physics)
 
 <h2 id="mr">Machine Learning: Movie Recommendation System</h2>
 * This project implements a [collaborative filtering–based movie recommendation system](https://chloezhu1.github.io/physics-and-engineering-research/#mra) using real user–rating data from the MovieLens dataset. By analyzing patterns in user–movie interactions, the model predicts personalized movie recommendations based on similarity between users and items.
 <br>
-[github](https://github.com/ChloeZhu1/Machine-Learning-Movie-Recommendation-System.git)
+[Github](https://github.com/ChloeZhu1/Machine-Learning-Movie-Recommendation-System.git)
 <br>
 [Youtube Demo Link](https://www.youtube.com/watch?v=anGgSRu01nY&feature=youtu.be)
 
