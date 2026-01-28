@@ -26,3 +26,7 @@ In this project, the relativistic effect is illustrated computationally by:
 This demonstrates how small geometric corrections to the equations of motion, when integrated over long timescales, lead to observable macroscopic effects—one of the clearest computational manifestations of general relativity.
 
 [Back](https://chloezhu1.github.io/research-experience/#mer)
+
+<h2 id="dpa">Double Pendulum</h2>
+![Double Pendulum](/images/compoundpendulum.webp)
+[Back](https://chloezhu1.github.io/research-experience/#dp)
