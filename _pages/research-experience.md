@@ -58,7 +58,7 @@ Methods & Tools
 * Visualization of trajectories and phase space
 * Python, NumPy, Matplotlib, Jupyter notebooks
 <br>
-[github](https://github.com/ChloeZhu1/computational-physics)
+[Github](https://github.com/ChloeZhu1/computational-physics)
 
 <h2 id="dp">Double Pendulum Dynamics</h2>
 * The [double pendulum](https://chloezhu1.github.io/physics-and-engineering-research/#dpa) is a simple mechanical system whose equations of motion are nonlinear and highly sensitive to initial conditions. Despite being governed by deterministic ODEs, its dynamics exhibit chaotic behavior, making it a canonical example for studying instability, energy conservation, and long-time numerical integration.
