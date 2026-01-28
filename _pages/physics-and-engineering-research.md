@@ -28,5 +28,6 @@ This demonstrates how small geometric corrections to the equations of motion, wh
 [Back](https://chloezhu1.github.io/research-experience/#mer)
 
 <h2 id="dpa">Double Pendulum</h2>
-<img src="/images/compoundpendulum.webp" alt="drawing" width="200"/>
+<img src="/images/compoundpendulum.webp" alt="drawing" width="600"/>
+<br>
 [Back](https://chloezhu1.github.io/research-experience/#dp)
