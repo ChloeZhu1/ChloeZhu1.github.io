@@ -19,9 +19,9 @@ $\ddot{r} = -\frac{GM}{r^2} + \frac{3GM}{c^2r^4}L^2$,
 
 In this project, the relativistic effect is illustrated computationally by:
 
-* numerically integrating the modified equations of motion,
-* comparing trajectories with and without the relativistic correction,
-* extracting the accumulated perihelion shift over many orbital periods.
+* Numerically integrating the modified equations of motion,
+* Comparing trajectories with and without the relativistic correction,
+* Extracting the accumulated perihelion shift over many orbital periods.
 
 This demonstrates how small geometric corrections to the equations of motion, when integrated over long timescales, lead to observable macroscopic effects—one of the clearest computational manifestations of general relativity.
 
@@ -37,9 +37,9 @@ This demonstrates how small geometric corrections to the equations of motion, wh
 
 The project emphasizes:
 
-* data preprocessing and construction of a user–item rating matrix,
-* algorithmic reasoning behind recommendation logic,
-* practical deployment through a simple graphical user interface.
+* Data preprocessing and construction of a user–item rating matrix,
+* Algorithmic reasoning behind recommendation logic,
+* Practical deployment through a simple graphical user interface.
 
 Overall, it serves as an applied introduction to machine learning for preference prediction, combining data analysis, algorithm design, and user-facing implementation.
 
