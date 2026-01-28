@@ -69,6 +69,8 @@ Methods & Tools
 * This project implements a [collaborative filtering–based movie recommendation system](https://chloezhu1.github.io/physics-and-engineering-research/#mra) using real user–rating data from the MovieLens dataset. By analyzing patterns in user–movie interactions, the model predicts personalized movie recommendations based on similarity between users and items.
 <br>
 [github](https://github.com/ChloeZhu1/Machine-Learning-Movie-Recommendation-System.git)
+<br>
+[Youtube Demo Link](https://www.youtube.com/watch?v=anGgSRu01nY&feature=youtu.be)
 
 
 
