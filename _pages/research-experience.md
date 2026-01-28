@@ -46,7 +46,7 @@ pass" saddle point method to optimize functionals’ critical values.
 [Details](https://chloezhu1.github.io/math/#rie)
 
 # Physics and Engineering Research
-
+<h2 id="mer">Computational Physics</h2>
 
 
 
