@@ -31,3 +31,5 @@ This demonstrates how small geometric corrections to the equations of motion, wh
 <img src="/images/compoundpendulum.webp" alt="drawing" width="600"/>
 <br>
 [Back](https://chloezhu1.github.io/research-experience/#dp)
+
+<h2 id="mra">Machine Learning: Movie Recommendation System</h2>
