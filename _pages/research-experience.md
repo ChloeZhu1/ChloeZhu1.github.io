@@ -51,7 +51,7 @@ General Relativity and Mercury’s Precession
 * In Newtonian gravity, planetary orbits are closed ellipses, so any perihelion precession must come from perturbations. General relativity introduces a small correction to the equations of motion, reflecting the curvature of spacetime around the Sun. Though tiny, this relativistic term accumulates over many orbits, producing the observed perihelion precession of Mercury.
 * My work provided a numerical simulation, translated differential equations into efficient algorithms, analyzed qualitative behavior, and visualized dynamics.
 <br>
-[github]("https://github.com/ChloeZhu1/computational-physics")
+[github](https://github.com/ChloeZhu1/computational-physics)
 
 
 
