@@ -43,5 +43,5 @@ The project emphasizes:
 
 Overall, it serves as an applied introduction to machine learning for preference prediction, combining data analysis, algorithm design, and user-facing implementation.
 
-[Back]((https://chloezhu1.github.io/research-experience/#mr)
+[Back](https://chloezhu1.github.io/research-experience/#mr)
 
