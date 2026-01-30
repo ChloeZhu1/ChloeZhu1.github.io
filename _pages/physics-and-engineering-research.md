@@ -45,3 +45,6 @@ Overall, it serves as an applied introduction to machine learning for preference
 
 [Back](https://chloezhu1.github.io/research-experience/#mr)
 
+<h2 id="gt">Gauge Transformations in Electrodynamics</h2>
+
+
