@@ -78,3 +78,6 @@ A theoretical note analyzing [gauge redundancy in classical electrodynamics](htt
 [Paper](/files/Gauge_Transformations.pdf)
 <br>
 [YouTube Link](https://youtu.be/l8rPY8Bcc0A)
+
+<h2 id="hr">Motion Control and Computer Vision for Autonomous Humanoid Robots</h2>
+
