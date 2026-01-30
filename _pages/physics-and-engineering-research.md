@@ -49,6 +49,16 @@ Overall, it serves as an applied introduction to machine learning for preference
 <img src="/images/diagram-Feynman-quantum-electrodynamics-electrons-vertices-interaction.jpg" alt="drawing" width="600"/>
 <figcaption>Gauge Theory/Feynman Diagram</figcaption>
 
-[Reference Paper]()
+Topics & Methods
+
+* Maxwell’s equations as an initial value problem
+* Electromagnetic potentials and gauge transformations
+* Gauge invariance and Utiyama’s theorem
+* Temporal gauge and well-posedness
+* Variational formulation of classical field theories
+
+[Reference Paper](/files/1110.6169.pdf)
+<br>
+[Back](https://chloezhu1.github.io/research-experience/#gt)
 
 
