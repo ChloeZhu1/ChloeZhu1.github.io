@@ -75,6 +75,6 @@ Methods & Tools
 <h2 id="gt">Gauge Transformations in Electrodynamics</h2>
 A theoretical note analyzing gauge redundancy in classical electrodynamics, clarifying the relationship between Maxwell’s equations, electromagnetic potentials, and well-posedness of the initial value problem. The work emphasizes gauge invariance, Utiyama’s theorem, and the role of temporal gauge in restoring deterministic evolution.
 <br>
-[Paper]
+[Paper](/files/Gauge_Transformations.pdf)
 <br>
 [YouTube Link](https://youtu.be/l8rPY8Bcc0A)
