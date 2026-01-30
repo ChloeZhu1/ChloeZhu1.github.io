@@ -46,7 +46,7 @@ Overall, it serves as an applied introduction to machine learning for preference
 [Back](https://chloezhu1.github.io/research-experience/#mr)
 
 <h2 id="gta">Gauge Transformations in Electrodynamics</h2>
-<img src="/images/diagram-Feynman-quantum-electrodynamics-electrons-vertices-interaction.jpg" alt="drawing" width="500"/>
+<img src="/images/diagram-Feynman-quantum-electrodynamics-electrons-vertices-interaction.jpg" alt="drawing"/>
 <figcaption>Gauge Theory/Feynman Diagram</figcaption>
 
 Topics & Methods
