@@ -80,7 +80,7 @@ A theoretical note analyzing [gauge redundancy in classical electrodynamics](htt
 [YouTube Link](https://youtu.be/l8rPY8Bcc0A)
 
 <h2 id="hr">🤖 Vision-Driven NAO Robot Navigation & Control</h2>
-Engineered a C++ autonomous behavior system for the NAO humanoid robot that fuses real-time vision detection with motion planning and closed-loop control. Implemented a perception-to-action pipeline using NAOqi and OpenCV to detect targets, estimate relative pose, and drive head movement, walking, and task actions through a finite-state controller. Designed the system for robust target search, alignment, and approach under real hardware constraints.
+Engineered a C++ autonomous behavior system for the [NAO humanoid robot](https://chloezhu1.github.io/physics-and-engineering-research/#naoa) that fuses real-time vision detection with motion planning and closed-loop control. Implemented a perception-to-action pipeline using NAOqi and OpenCV to detect targets, estimate relative pose, and drive head movement, walking, and task actions through a finite-state controller. Designed the system for robust target search, alignment, and approach under real hardware constraints.
 <br>
 Stack: C++, OpenCV, NAOqi SDK, robot motion control, state machines, real-time perception
 <br>
