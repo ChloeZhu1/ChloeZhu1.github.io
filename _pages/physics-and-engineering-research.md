@@ -61,4 +61,6 @@ Topics & Methods
 <br>
 [Back](https://chloezhu1.github.io/research-experience/#gt)
 
-
+<h2 id="naoa">NAO Humanoid Robot</h2>
+<img src="/images/froala_1595571820291-0.egi8v4j3fss1.jpg" alt="drawing"/>
+[Back](https://chloezhu1.github.io/research-experience/#hr)
