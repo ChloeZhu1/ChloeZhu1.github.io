@@ -33,7 +33,7 @@ This demonstrates how small geometric corrections to the equations of motion, wh
 [Back](https://chloezhu1.github.io/research-experience/#dp)
 
 <h2 id="mra">Machine Learning: Movie Recommendation System</h2>
-<img src="/images/Whats-recommendation-system_Pic-2.png" alt="drawing" width="400"/>
+<img src="/images/Whats-recommendation-system_Pic-2.png" alt="drawing" width="600"/>
 
 The project emphasizes:
 
@@ -46,7 +46,7 @@ Overall, it serves as an applied introduction to machine learning for preference
 [Back](https://chloezhu1.github.io/research-experience/#mr)
 
 <h2 id="gta">Gauge Transformations in Electrodynamics</h2>
-<img src="/images/diagram-Feynman-quantum-electrodynamics-electrons-vertices-interaction.jpg" alt="drawing"/>
+<img src="/images/diagram-Feynman-quantum-electrodynamics-electrons-vertices-interaction.jpg" alt="drawing" width="600"/>
 <figcaption>Gauge Theory/Feynman Diagram</figcaption>
 
 Topics & Methods
@@ -62,5 +62,5 @@ Topics & Methods
 [Back](https://chloezhu1.github.io/research-experience/#gt)
 
 <h2 id="naoa">NAO Humanoid Robot</h2>
-<img src="/images/froala_1595571820291-0.egi8v4j3fss1.jpg" alt="drawing"/>
+<img src="/images/froala_1595571820291-0.egi8v4j3fss1.jpg" alt="drawing" width="600"/>
 [Back](https://chloezhu1.github.io/research-experience/#hr)
