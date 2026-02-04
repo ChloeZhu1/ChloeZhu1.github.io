@@ -46,7 +46,7 @@ Overall, it serves as an applied introduction to machine learning for preference
 [Back](https://chloezhu1.github.io/research-experience/#mr)
 
 <h2 id="gta">Gauge Transformations in Electrodynamics</h2>
-<img src="/images/diagram-Feynman-quantum-electrodynamics-electrons-vertices-interaction.jpg" alt="drawing" width="500"/>
+<img src="/images/diagram-Feynman-quantum-electrodynamics-electrons-vertices-interaction.jpg" alt="drawing" width="450"/>
 <figcaption>Gauge Theory/Feynman Diagram</figcaption>
 
 Topics & Methods
@@ -62,6 +62,6 @@ Topics & Methods
 [Back](https://chloezhu1.github.io/research-experience/#gt)
 
 <h2 id="naoa">NAO Humanoid Robot</h2>
-<img src="/images/froala_1595571820291-0.egi8v4j3fss1.jpg" alt="drawing" width="600"/>
+<img src="/images/froala_1595571820291-0.egi8v4j3fss1.jpg" alt="drawing" width="650"/>
 <br>
 [Back](https://chloezhu1.github.io/research-experience/#hr)
