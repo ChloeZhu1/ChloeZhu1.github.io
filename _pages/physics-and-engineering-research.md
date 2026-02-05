@@ -65,3 +65,73 @@ Topics & Methods
 <img src="/images/froala_1595571820291-0.egi8v4j3fss1.jpg" alt="drawing" width="700"/>
 <br>
 [Back](https://chloezhu1.github.io/research-experience/#hr)
+
+<h2 id="dba">From Graphics to Motion: A Vision-Driven Robot Pipeline</h2>
+### Project Overview
+I developed a complete end-to-end robotic calligraphy system that enables a Dobot robotic arm to write complex characters—such as Chinese calligraphy and poetry, using a soft brush on soft fabric paper—by converting vector graphics into precise physical motion.
+### System Architecture
+The system is organized as a multi-stage pipeline:<br>
+1. Vector Representation (SVG)
+  Characters are represented as SVG files composed of stroke paths.
+
+2. Geometry Extraction & Normalization
+  A preprocessing module parses SVG polylines, extracts stroke points, normalizes coordinates, and encodes stroke boundaries.
+
+3. Stroke-Level Motion Execution
+  Each stroke is executed by the robot through:
+    * Safe positioning (pen up)
+    * Controlled descent (pen down)
+    * Continuous planar tracing
+    * Stroke termination (pen up)
+
+4. Page-Level Orchestration
+  Characters are arranged into a structured grid to write full poems, with human-in-the-loop correction for paper alignment between lines.
+
+5. Hardware Interface
+  All motions are executed through the Dobot SDK using queued Cartesian commands with synchronized execution and feedback.
+
+### Key Technical Contributions
+* SVG-to-Robot Path Conversion
+    Designed a parser that converts vector stroke geometry into normalized robot coordinates, preserving stroke order and structure.
+
+* Hierarchical Motion Control
+  Implemented a clean separation between:
+
+    * Stroke-level trajectories
+
+    * Character-level composition
+
+    * Poem/page-level layout
+
+* Pen-Up / Pen-Down Modeling
+  Encoded writing semantics directly into robot motion through Z-axis control, closely mimicking human handwriting behavior.
+
+* Real-World Calibration Handling
+  Integrated manual alignment feedback to compensate for paper displacement, highlighting practical challenges in physical robotics systems.
+
+* Queued Motion Synchronization
+  Ensured deterministic execution by explicitly managing command queues and blocking until motion completion.
+### Technologies & Tools
+* Hardware: Dobot robotic arm
+
+* Programming Language: Python (ctypes-based DLL bindings)
+
+* Robot Control: Dobot SDK (PTP Cartesian motion)
+
+* Geometry Processing: SVG parsing, coordinate normalization
+
+* Operating Mode: Bare-metal robot control (no ROS)
+
+### Broader Impact & Relevance
+
+This project sits at the intersection of:
+
+* Robotics and automation
+
+* Computational geometry
+
+* Human–robot interaction
+
+* Embodied computation
+
+It demonstrates how abstract digital representations can be physically instantiated, a theme relevant to robotics research, cyber-physical systems, and intelligent manufacturing.
