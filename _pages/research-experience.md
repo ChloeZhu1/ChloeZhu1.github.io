@@ -115,71 +115,11 @@ The system successfully:
 [GitHub](https://github.com/ChloeZhu1/STM32-Internal-Temperature-Sensor-LCD-Display.git)
 
 <h2 id="sy">Precise Synchronous Frequency Offset Apparatus for Multi-Robot RF Communication</h2>
-This project develops a digitally controlled synchronous frequency calibration and offset generation system for dense multi-robot RF communication environments. The apparatus is designed for robotics competitions and coordinated robot fleets where dozens of transmitters operate simultaneously and require stable, interference-resistant, frequency-separated channels.<br>
+* I developed a digitally controlled synchronous frequency calibration and offset generation system for dense multi-robot RF communication environments. 
+* The apparatus is designed for robotics competitions and coordinated robot fleets where dozens of transmitters operate simultaneously and require stable, interference-resistant, frequency-separated channels.
+* The core is a microcontroller-based real-time frequency measurement and control architecture that replaces traditional analog PLL synchronization loops with a software-assisted calibration pipeline driven by an external standard frequency reference. The system extracts a national standard frequency (SF) signal embedded in broadcast video synchronization pulses and uses it to continuously discipline a VCXO reference, which is then used to drive a multi-channel RF frequency synthesis chain.
 
-
-The core contribution is a microcontroller-based real-time frequency measurement and control architecture that replaces traditional analog PLL synchronization loops with a software-assisted calibration pipeline driven by an external standard frequency reference. The system extracts a national standard frequency (SF) signal embedded in broadcast video synchronization pulses and uses it to continuously discipline a VCXO reference, which is then used to drive a multi-channel RF frequency synthesis chain.
-
-```html
-<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .box { fill:#111827; stroke:#60a5fa; stroke-width:2; rx:10 }
-    .txt { fill:#e5e7eb; font-size:14px; font-family:monospace }
-    .arrow { stroke:#9ca3af; stroke-width:2; marker-end:url(#arrow) }
-  </style>
-
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
-      <polygon points="0,0 10,5 0,10" fill="#9ca3af"/>
-    </marker>
-  </defs>
-
-  <!-- Input -->
-  <rect class="box" x="40" y="60" width="200" height="60"/>
-  <text class="txt" x="60" y="95">Broadcast Video Input</text>
-
-  <rect class="box" x="40" y="150" width="200" height="60"/>
-  <text class="txt" x="55" y="185">Sync Separator (H/V)</text>
-
-  <rect class="box" x="40" y="240" width="200" height="60"/>
-  <text class="txt" x="65" y="275">Line Gate + Counter</text>
-
-  <!-- IPU -->
-  <rect class="box" x="300" y="120" width="260" height="140"/>
-  <text class="txt" x="320" y="150">IPU (Microcontroller)</text>
-  <text class="txt" x="320" y="175">• Phase Detector</text>
-  <text class="txt" x="320" y="195">• ADC Sampling</text>
-  <text class="txt" x="320" y="215">• Digital Control Loop</text>
-  <text class="txt" x="320" y="235">• DAC Feedback</text>
-
-  <!-- VCXO -->
-  <rect class="box" x="300" y="300" width="260" height="70"/>
-  <text class="txt" x="320" y="340">VCXO (Disciplined)</text>
-
-  <!-- Converter -->
-  <rect class="box" x="300" y="400" width="260" height="60"/>
-  <text class="txt" x="320" y="435">Freq Convert → 9 kHz Ref</text>
-
-  <!-- FSU -->
-  <rect class="box" x="620" y="160" width="220" height="120"/>
-  <text class="txt" x="640" y="190">FSU (PLL Bank)</text>
-  <text class="txt" x="640" y="215">• Dual Ref Inputs</text>
-  <text class="txt" x="640" y="235">• Auto Switch</text>
-  <text class="txt" x="640" y="255">• Multi-PLL Synth</text>
-
-  <!-- RF Out -->
-  <rect class="box" x="620" y="320" width="220" height="70"/>
-  <text class="txt" x="645" y="360">Multi-Channel RF Out</text>
-
-  <!-- Arrows -->
-  <line class="arrow" x1="240" y1="90" x2="300" y2="150"/>
-  <line class="arrow" x1="240" y1="180" x2="300" y2="180"/>
-  <line class="arrow" x1="240" y1="270" x2="300" y2="210"/>
-
-  <line class="arrow" x1="430" y1="260" x2="430" y2="300"/>
-  <line class="arrow" x1="430" y1="370" x2="430" y2="400"/>
-  <line class="arrow" x1="560" y1="430" x2="620" y2="340"/>
-</svg>
-```
+![Architecture Diagram](/images/sch.svg)
+<br>
 
 [Slides](/files/PSFA.pptx)
