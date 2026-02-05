@@ -135,4 +135,4 @@ This project sits at the intersection of:
 * Embodied computation
 
 It demonstrates how abstract digital representations can be physically instantiated, a theme relevant to robotics research, cyber-physical systems, and intelligent manufacturing.<br>
-[Back](https://chloezhu1.github.io/research-experience/db)
+[Back](https://chloezhu1.github.io/research-experience/#db)
