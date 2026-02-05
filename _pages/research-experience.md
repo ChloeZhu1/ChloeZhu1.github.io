@@ -119,6 +119,7 @@ This project develops a digitally controlled synchronous frequency calibration a
 
 The core contribution is a microcontroller-based real-time frequency measurement and control architecture that replaces traditional analog PLL synchronization loops with a software-assisted calibration pipeline driven by an external standard frequency reference. The system extracts a national standard frequency (SF) signal embedded in broadcast video synchronization pulses and uses it to continuously discipline a VCXO reference, which is then used to drive a multi-channel RF frequency synthesis chain.
 
+```html
 <svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
   <style>
     .box { fill:#111827; stroke:#60a5fa; stroke-width:2; rx:10 }
@@ -178,5 +179,6 @@ The core contribution is a microcontroller-based real-time frequency measurement
   <line class="arrow" x1="430" y1="370" x2="430" y2="400"/>
   <line class="arrow" x1="560" y1="430" x2="620" y2="340"/>
 </svg>
+```
 
 [Slides](/files/PSFA.pptx)
