@@ -119,6 +119,8 @@ The system successfully:
 * The apparatus is designed for robotics competitions and coordinated robot fleets where dozens of transmitters operate simultaneously and require stable, interference-resistant, frequency-separated channels.
 * The core is a microcontroller-based real-time frequency measurement and control architecture that replaces traditional analog PLL synchronization loops with a software-assisted calibration pipeline driven by an external standard frequency reference. The system extracts a national standard frequency (SF) signal embedded in broadcast video synchronization pulses and uses it to continuously discipline a VCXO reference, which is then used to drive a multi-channel RF frequency synthesis chain.
 
+### Architecture Diagram
+
 ![Architecture Diagram](/images/sch.svg)
 <br>
 
