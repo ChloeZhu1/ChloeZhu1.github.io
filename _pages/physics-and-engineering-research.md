@@ -141,3 +141,83 @@ This project demonstrates:
 [Back](https://chloezhu1.github.io/research-experience/#st)
 
 <h2 id="sya">Reference Signal Extraction & Calibration Method</h2>
+A 1 MHz standard frequency reference embedded in broadcast TV synchronization intervals is used as the calibration source. Specific horizontal line intervals contain atomic-clock-disciplined pulses with very high precision. The system:
+
+1. Demodulates composite video input
+2. Separates sync signals
+3. Selects target line intervals via gated counters
+4. Extracts standard frequency pulses
+5. Compares against divided VCXO output
+6. Computes phase/time error in MCU
+7. Applies DAC feedback to discipline VCXO
+
+This produces a continuously calibrated oscillator reference with long-term stability inherited from the broadcast atomic clock standard.
+
+### Digital Control Loop Architecture
+
+Instead of a purely analog PLL loop, the calibration loop is implemented as:
+* Phase detection → ADC sampling
+* MCU digital error estimation
+* Software filtering and control law
+* DAC feedback to VCXO
+* Continuous adaptive correction
+
+### Frequency Generation & Channelization
+
+After VCXO calibration:
+* Reference is converted to a 9 kHz disciplined excitation signal
+* Passed into a frequency synthesizer unit (PLL bank)
+* Configurable division ratios produce target carrier frequencies
+* Dial/preset switches map directly to frequency division coefficients
+* Multiple PLL paths run in main/standby redundancy pairs
+
+### Hardware Subsystems
+
+Intelligent Processing Unit (IPU)
+* Video sync decomposition
+* Standard frequency extraction
+* VCXO calibration loop
+* Digital control + DAC feedback
+* Reference frequency output
+* Dual IPU main/backup redundancy
+
+Frequency Synthesizer Unit (FSU)
+* Accepts dual 9 kHz references
+* Automatic main/standby switching
+* Multi-PLL carrier synthesis
+* 8-channel output distribution
+
+Frequency Multiplier Board
+* Reference multiplication
+* Carrier generation stages
+
+UPS Subsystem
+* Power continuity
+* Reference stability protection
+
+### Reliability & Fault Diagnostics 
+
+The system includes structured diagnostic indicators:
+* Work/Alarm states
+* Reference presence & stability flags
+* PLL lock indicators
+* Calibration status lights
+* Power rail monitoring LEDs
+
+Troubleshooting is organized by subsystem isolation:
+* Power board validation
+* IPU calibration path checks
+* PLL lock verification
+* Reference input continuity
+
+### Research & Engineering Significance
+
+This project demonstrates a hybrid embedded-control + RF frequency synthesis architecture where:
+* Broadcast metrology signals are repurposed as precision references
+* Digital control replaces analog PLL loops
+* Redundant synthesizer paths improve robustness
+* Deterministic RF channel spacing supports swarm robotics
+
+It connects embedded systems, signal processing, frequency metrology, and RF communications into a unified synchronization platform.
+
+[Back](https://chloezhu1.github.io/research-experience/#sya)
