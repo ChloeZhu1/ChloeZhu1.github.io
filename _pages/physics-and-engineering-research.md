@@ -74,20 +74,16 @@ The system is organized as a multi-stage pipeline:<br>
 
 1. Vector Representation (SVG)
   Characters are represented as SVG files composed of stroke paths.
-
 2. Geometry Extraction & Normalization
   A preprocessing module parses SVG polylines, extracts stroke points, normalizes coordinates, and encodes stroke boundaries.
-
 3. Stroke-Level Motion Execution
   Each stroke is executed by the robot through:
     * Safe positioning (pen up)
     * Controlled descent (pen down)
     * Continuous planar tracing
     * Stroke termination (pen up)
-
 4. Page-Level Orchestration
   Characters are arranged into a structured grid to write full poems, with human-in-the-loop correction for paper alignment between lines.
-
 5. Hardware Interface
   All motions are executed through the Dobot SDK using queued Cartesian commands with synchronized execution and feedback.
 
