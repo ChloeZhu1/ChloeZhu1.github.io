@@ -140,7 +140,9 @@ This project demonstrates:
 
 [Back](https://chloezhu1.github.io/research-experience/#st)
 
-<h2 id="sya">Reference Signal Extraction & Calibration Method</h2>
+<h2 id="sya">Precise Synchronous Frequency Offset Apparatus for Multi-Robot RF Communication</h2>
+### Reference Signal Extraction & Calibration Method
+
 A 1 MHz standard frequency reference embedded in broadcast TV synchronization intervals is used as the calibration source. Specific horizontal line intervals contain atomic-clock-disciplined pulses with very high precision. The system:
 
 1. Demodulates composite video input
