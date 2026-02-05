@@ -140,7 +140,7 @@ This project demonstrates:
 
 [Back](https://chloezhu1.github.io/research-experience/#st)
 
-<h2 id="sya">Precise Synchronous Frequency Offset Apparatus for Multi-Robot RF Communication</h2>
+<h2 id="sta">Precise Synchronous Frequency Offset Apparatus for Multi-Robot RF Communication</h2>
 
 ### Reference Signal Extraction & Calibration Method
 
@@ -175,28 +175,10 @@ After VCXO calibration:
 * Multiple PLL paths run in main/standby redundancy pairs
 
 ### Hardware Subsystems
-
-Intelligent Processing Unit (IPU)
-* Video sync decomposition
-* Standard frequency extraction
-* VCXO calibration loop
-* Digital control + DAC feedback
-* Reference frequency output
-* Dual IPU main/backup redundancy
-
-Frequency Synthesizer Unit (FSU)
-* Accepts dual 9 kHz references
-* Automatic main/standby switching
-* Multi-PLL carrier synthesis
-* 8-channel output distribution
-
-Frequency Multiplier Board
-* Reference multiplication
-* Carrier generation stages
-
-UPS Subsystem
-* Power continuity
-* Reference stability protection
+* Intelligent Processing Unit (IPU)
+* Frequency Synthesizer Unit (FSU)
+* Frequency Multiplier Board
+* UPS Subsystem
 
 ### Reliability & Fault Diagnostics 
 
@@ -223,4 +205,4 @@ This project demonstrates a hybrid embedded-control + RF frequency synthesis arc
 
 It connects embedded systems, signal processing, frequency metrology, and RF communications into a unified synchronization platform.
 
-[Back](https://chloezhu1.github.io/research-experience/#sya)
+[Back](https://chloezhu1.github.io/research-experience/#sy)
