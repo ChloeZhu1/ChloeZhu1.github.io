@@ -115,7 +115,8 @@ The system successfully:
 [GitHub](https://github.com/ChloeZhu1/STM32-Internal-Temperature-Sensor-LCD-Display.git)
 
 <h2 id="sy">Precise Synchronous Frequency Offset Apparatus for Multi-Robot RF Communication</h2>
-This project develops a digitally controlled synchronous frequency calibration and offset generation system for dense multi-robot RF communication environments. The apparatus is designed for robotics competitions and coordinated robot fleets where dozens of transmitters operate simultaneously and require stable, interference-resistant, frequency-separated channels.
+This project develops a digitally controlled synchronous frequency calibration and offset generation system for dense multi-robot RF communication environments. The apparatus is designed for robotics competitions and coordinated robot fleets where dozens of transmitters operate simultaneously and require stable, interference-resistant, frequency-separated channels.<br>
+
 
 The core contribution is a microcontroller-based real-time frequency measurement and control architecture that replaces traditional analog PLL synchronization loops with a software-assisted calibration pipeline driven by an external standard frequency reference. The system extracts a national standard frequency (SF) signal embedded in broadcast video synchronization pulses and uses it to continuously discipline a VCXO reference, which is then used to drive a multi-channel RF frequency synthesis chain.
 
