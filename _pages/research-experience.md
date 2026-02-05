@@ -51,7 +51,8 @@ pass" saddle point method to optimize functionals’ critical values.
 * I applied homotopy theory from math to study the classification of superconducting phases via topological invariants and symmetry classes. 
 <br>
 
-[Paper]()
+[Detail](https://chloezhu1.github.io/physics-and-engineering-research/#toa)
+[Paper](/files/topl_superconductors.pdf)
 
 <h2 id="mer">Computational Physics</h2>
 [General Relativity and Mercury’s Precession](https://chloezhu1.github.io/physics-and-engineering-research/#gr)
