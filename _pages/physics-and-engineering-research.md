@@ -18,6 +18,7 @@ From a mathematical perspective, the work highlights how tools from:
 * Topological invariants
 * Fiber bundle viewpoints
 * Symmetry class classification
+naturally organize superconducting phase diagrams and predict robust boundary phenomena.
 
 [Back](https://chloezhu1.github.io/research-experience/#to)
 
