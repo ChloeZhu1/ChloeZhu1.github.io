@@ -92,7 +92,7 @@ Focus: Vision-guided navigation, pose estimation, behavior control, hardware int
 <br>
 [YouTube Link](https://www.youtube.com/watch?v=r45bdkmdulo) 
 
-<h2 id="hr">From Graphics to Motion: A Vision-Driven Robot Pipeline</h2>
+<h2 id="db">From Graphics to Motion: A Vision-Driven Robot Pipeline</h2>
 I designed and implemented a full SVG-to-robot handwriting pipeline that converts vector character geometry into precise, physically executed pen strokes using a [Dobot robotic arm](https://youtu.be/dUUH_BGZyok).
 
 The system successfully:
