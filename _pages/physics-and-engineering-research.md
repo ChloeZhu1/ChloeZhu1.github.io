@@ -11,7 +11,7 @@ redirect_from:
 <!-- <a href="#section-title1">Skyrmions</a> -->
 <h2 id="toa">Topological Superconductors & Topological Phases of Matter</h2>
 
-This project explores the mathematical and physical structure of topological superconductors, focusing on how topology, symmetry, and quantum field structure govern superconducting and insulating phases. The work connects condensed matter physics with tools from topology and homotopy theory, emphasizing classification principles and invariant-based descriptions of quantum phases.
+This research explores the mathematical and physical structure of topological superconductors, focusing on how topology, symmetry, and quantum field structure govern superconducting and insulating phases. The work connects condensed matter physics with tools from topology and homotopy theory, emphasizing classification principles and invariant-based descriptions of quantum phases.
 
 From a mathematical perspective, the work highlights how tools from:
 * Homotopy theory
