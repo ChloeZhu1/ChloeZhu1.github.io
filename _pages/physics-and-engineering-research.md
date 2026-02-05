@@ -9,6 +9,18 @@ redirect_from:
 
 {% include base_path %}
 <!-- <a href="#section-title1">Skyrmions</a> -->
+<h2 id="toa">Topological Superconductors & Topological Phases of Matter</h2>
+
+This project explores the mathematical and physical structure of topological superconductors, focusing on how topology, symmetry, and quantum field structure govern superconducting and insulating phases. The work connects condensed matter physics with tools from topology and homotopy theory, emphasizing classification principles and invariant-based descriptions of quantum phases.
+
+From a mathematical perspective, the work highlights how tools from:
+* Homotopy theory
+* Topological invariants
+* Fiber bundle viewpoints
+* Symmetry class classification
+
+[Back](https://chloezhu1.github.io/research-experience/#to)
+
 <h2 id="gr">General Relativity via Mercury’s Perihelion Precession</h2>
 ![Mercury Precession](/images/the-secret-of-planets.jpg)
 * In Newtonian gravity, a planet orbiting a point mass follows a closed ellipse. Any precession of the perihelion must come from external perturbations (other planets, oblateness, numerical error, etc.). However, observations of Mercury’s orbit show a small residual precession that cannot be explained classically.
