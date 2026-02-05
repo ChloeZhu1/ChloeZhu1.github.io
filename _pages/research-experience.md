@@ -84,10 +84,9 @@ A theoretical note analyzing [gauge redundancy in classical electrodynamics](htt
 * Implemented a perception-to-action pipeline using NAOqi and OpenCV to detect targets, estimate relative pose, and drive head movement, walking, and task actions through a finite-state controller. Designed the system for robust target search, alignment, and approach under real hardware constraints.
 <br>
 
-Stack: C++, OpenCV, NAOqi SDK, robot motion control, state machines, real-time perception
+Stack: C++, OpenCV, NAOqi SDK, robot motion control, state machines, real-time perception.
 <br>
-
-Focus: Vision-guided navigation · pose estimation · behavior control · hardware integration
+Focus: Vision-guided navigation, pose estimation, behavior control, hardware integration.
 <br>
 [GitHub](https://github.com/ChloeZhu1/naoqi-robot-vision-motion.git)
 <br>
