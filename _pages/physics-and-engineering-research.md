@@ -121,3 +121,5 @@ This project sits at the intersection of:
 
 It demonstrates how abstract digital representations can be physically instantiated, a theme relevant to robotics research, cyber-physical systems, and intelligent manufacturing.<br>
 [Back](https://chloezhu1.github.io/research-experience/#db)
+
+<h2 id="sta">STM32 Real Time Temperature Sensing and Display</h2>
