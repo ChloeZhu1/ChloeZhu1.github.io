@@ -92,3 +92,15 @@ Focus: Vision-guided navigation · pose estimation · behavior control · hardwa
 [GitHub](https://github.com/ChloeZhu1/naoqi-robot-vision-motion.git)
 <br>
 [YouTube Link](https://www.youtube.com/watch?v=r45bdkmdulo) 
+
+<h2 id="hr">From Graphics to Motion: A Vision-Driven Robot Pipeline</h2>
+I designed and implemented a full SVG-to-robot handwriting pipeline that converts vector character geometry into precise, physically executed pen strokes using a [Dobot robotic arm](https://youtu.be/dUUH_BGZyok).
+
+The system successfully:
+* Writes individual characters with multiple strokes
+* Produces structured multi-line poems
+* Demonstrates smooth, continuous stroke execution
+* Preserves the visual structure of vector-based glyphs in physical form
+
+[Details](https://chloezhu1.github.io/physics-and-engineering-research/#dba)<br>
+[GitHub](https://github.com/ChloeZhu1/Image-to-Trajectory-Robot-Controller.git)
