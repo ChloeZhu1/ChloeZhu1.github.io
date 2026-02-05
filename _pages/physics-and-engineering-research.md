@@ -123,3 +123,19 @@ It demonstrates how abstract digital representations can be physically instantia
 [Back](https://chloezhu1.github.io/research-experience/#db)
 
 <h2 id="sta">STM32 Real Time Temperature Sensing and Display</h2>
+<img src="/images/stm32.png" alt="drawing" width="600"/>
+<figcaption>Project Schematic</figcaption>
+
+The program continuously samples the STM32 internal temperature sensor via ADC, converts the voltage to temperature using the datasheet formula, and displays the real-time temperature on an LCD screen.
+
+### Technical level assessment
+
+This project demonstrates:
+
+* Direct ADC usage
+* Hardware calibration equations
+* Floating-point computation on Cortex-M3
+* LCD driver integration
+* Embedded system timing control
+
+[Back](https://chloezhu1.github.io/research-experience/#st)
