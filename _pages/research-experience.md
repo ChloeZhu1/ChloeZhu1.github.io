@@ -103,3 +103,12 @@ The system successfully:
 
 [Details](https://chloezhu1.github.io/physics-and-engineering-research/#dba)<br>
 [GitHub](https://github.com/ChloeZhu1/Image-to-Trajectory-Robot-Controller.git)
+
+<h2 id="st">STM32 Internal Temperature Sensor & LCD Display</h2>
+* I developed a bare-metal STM32F10x embedded systems project that measures temperature using the on-chip internal temperature sensor and displays the result in real time on an LCD screen.
+* Implemented in C using the STM32 Standard Peripheral Library (StdPeriph) and targets an STM32F103 (ARM Cortex-M3) microcontroller. 
+* Demonstrated core embedded concepts, including ADC configuration, sensor calibration, LCD interfacing, and real-time data display. 
+
+[Details](https://chloezhu1.github.io/physics-and-engineering-research/#sta)<br>
+[GitHub](https://github.com/ChloeZhu1/STM32-Internal-Temperature-Sensor-LCD-Display.git)
+
