@@ -139,3 +139,5 @@ This project demonstrates:
 * Embedded system timing control
 
 [Back](https://chloezhu1.github.io/research-experience/#st)
+
+<h2 id="sya">Reference Signal Extraction & Calibration Method</h2>
