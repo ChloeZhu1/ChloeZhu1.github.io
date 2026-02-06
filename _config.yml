@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Chloe (Fangjun) Zhu"
+title                    : "Chloé (Fangjun) Zhu"
 title_separator          : "-"
 name                     : &name "Fangjun (Chloé) Zhu"
 description              : &description "Chloe's Personal Website"   # Update this with a general description of your site, this is the default if not overridden by a page
