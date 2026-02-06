@@ -48,7 +48,7 @@ pass" saddle point method to optimize functionals’ critical values.
 <br>
 <br>
 
-# Physics and Engineering Research
+# Physics & Engineering Research
 
 
 
