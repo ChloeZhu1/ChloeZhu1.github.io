@@ -220,3 +220,11 @@ This project demonstrates a hybrid embedded-control + RF frequency synthesis arc
 It connects embedded systems, signal processing, frequency metrology, and RF communications into a unified synchronization platform.
 
 [Back](https://chloezhu1.github.io/research-experience/#sy)
+
+<h2 id="esa">SwitchVision OCR: Deep Text Detection for Industrial Panels</h2>
+
+
+[Back](https://chloezhu1.github.io/research-experience/#es)
+
+
+
