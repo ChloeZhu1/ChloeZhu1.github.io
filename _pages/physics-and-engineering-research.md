@@ -223,9 +223,9 @@ It connects embedded systems, signal processing, frequency metrology, and RF com
 
 <h2 id="esa">SwitchVision OCR: Deep Text Detection for Industrial Panels</h2>
 <img src="/images/statdet.png" alt="Switchboard status detection" width="49%"/>
-<figcaption>Switchboard status detection</figcaption>
+<!--<figcaption>Switchboard status detection</figcaption> -->
 <img src="/images/textdet.png" alt="drawing" width="49%"/>
-<figcaption>Panel text detection</figcaption>
+<!--<figcaption>Panel text detection</figcaption>-->
 <img src="/images/textrec.png" alt="drawing" width="400"/>
 <figcaption>Panel text recognition</figcaption>
 <img src="/images/textrecprog.png" alt="drawing" width="400"/>
