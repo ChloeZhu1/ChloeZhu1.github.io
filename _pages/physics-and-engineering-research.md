@@ -76,7 +76,12 @@ Topics & Methods
 [Back](https://chloezhu1.github.io/research-experience/#gt)
 
 <h2 id="naoa">NAO Humanoid Robot</h2>
-<img src="/images/froala_1595571820291-0.egi8v4j3fss1.jpg" alt="drawing" width="700"/>
+<img src="/images/froala_1595571820291-0.egi8v4j3fss1.jpg" alt="drawing" width="450"/>
+<figcaption>NAO components</figcaption>
+<img src="/images/golf testing.jpg" alt="drawing" width="450"/>
+<figcaption>NAO robot golf-play testing</figcaption>
+<img src="/images/coord trans.png" alt="drawing" width="450"/>
+<figcaption>NAO robot red-ball detection coordinate transform design</figcaption>
 <br>
 [Back](https://chloezhu1.github.io/research-experience/#hr)
 
