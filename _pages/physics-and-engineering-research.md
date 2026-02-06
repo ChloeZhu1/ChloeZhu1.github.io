@@ -222,7 +222,24 @@ It connects embedded systems, signal processing, frequency metrology, and RF com
 [Back](https://chloezhu1.github.io/research-experience/#sy)
 
 <h2 id="esa">SwitchVision OCR: Deep Text Detection for Industrial Panels</h2>
+<img src="/images/statdet.png" alt="drawing" width="400"/>
+<figcaption>Switchboard status detection</figcaption>
+<img src="/images/textdet.png" alt="drawing" width="400"/>
+<figcaption>Panel text detection</figcaption>
+<img src="/images/textrec.png" alt="drawing" width="400"/>
+<figcaption>Panel text recognition</figcaption>
+<img src="/images/textrecprog.png" alt="drawing" width="400"/>
+<figcaption>Panel text recognition program</figcaption>
+<br>
 
+### Highlights
+
+* Deep-learning–based text region detection
+* ROI extraction and refinement pipeline
+* OCR recognition and post-processing
+* Image and video frame support
+* Visual debugging and annotated outputs
+* C++ / OpenCV / EAST / Tesseract stack
 
 [Back](https://chloezhu1.github.io/research-experience/#es)
 
