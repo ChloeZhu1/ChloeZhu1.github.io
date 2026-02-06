@@ -17,20 +17,23 @@ main:
   - title: "Math Research"
     url: /math/
     
-  - title: "Talks"
-    url: /talks/    
+ # - title: "Talks"
+  #  url: /talks/    
 
-  - title: "Publications"
-    url: /publications/
+  - title: "physics-and-engineering research"
+    url: /physics-and-engineering research/
+  
+ # - title: "Publications"
+   # url: /publications/
 
   - title: "CV"
     url: /cv/
     
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+  #  url: /portfolio/
         
  # - title: "Blog Posts"
   #  url: /year-archive/
@@ -40,5 +43,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+ #   url: /markdown/
