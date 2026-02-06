@@ -111,7 +111,7 @@ The system successfully:
 * Demonstrates smooth, continuous stroke execution
 * Preserves the visual structure of vector-based glyphs in physical form
 
-[Details](https://chloezhu1.github.io/physics-and-engineering-research/#dba)<br>
+[Detail](https://chloezhu1.github.io/physics-and-engineering-research/#dba)<br>
 [GitHub](https://github.com/ChloeZhu1/Image-to-Trajectory-Robot-Controller.git)
 
 <h2 id="st">STM32 Internal Temperature Sensor & LCD Display</h2>
@@ -119,7 +119,7 @@ The system successfully:
 * Implemented in C using the STM32 Standard Peripheral Library (StdPeriph) and targets an STM32F103 (ARM Cortex-M3) microcontroller. 
 * Demonstrated core embedded concepts, including ADC configuration, sensor calibration, LCD interfacing, and real-time data display. 
 
-[Details](https://chloezhu1.github.io/physics-and-engineering-research/#sta)<br>
+[Detail](https://chloezhu1.github.io/physics-and-engineering-research/#sta)<br>
 [GitHub](https://github.com/ChloeZhu1/STM32-Internal-Temperature-Sensor-LCD-Display.git)
 
 <h2 id="sy">Precise Synchronous Frequency Offset Apparatus for Multi-Robot RF Communication</h2>
@@ -134,3 +134,10 @@ The system successfully:
 <br>
 
 [Slides](/files/PSFA.pptx)
+
+<h2 id="es">SwitchVision OCR: Deep Text Detection for Industrial Panels</h2>
+I developed, validated, and implemented a C++ computer-vision workflow to detect and recognize switchboard status and control panel texts in real-world electrical stations. Combines OpenCV preprocessing, EAST DNN text detection, and Tesseract OCR to produce annotated outputs and structured text results, and trigger corresponding alarm systems for relevant personnel. 
+
+[Detail](https://chloezhu1.github.io/physics-and-engineering-research/#esa)
+<br>
+[GitHub](https://github.com/ChloeZhu1/Machine-Vision-and-Neural-Network-Design-for-Electrical-Switching-Stations.git)
