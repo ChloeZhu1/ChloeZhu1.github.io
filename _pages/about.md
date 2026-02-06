@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! My name is Fangjun (Chloé) Zhu. Currently, I am working on developing AI algorithms for unmanned aerial vehicle/drones, and for educational consultancy. I am also working on automation for industrial process control. 
+Hi everyone! My name is Chloé (Fangjun) Zhu. Currently, I am working on developing AI algorithms for unmanned aerial vehicle/drones, and for educational consultancy. I am also working on automation for industrial process control. 
 
 Prior to these, I worked as an Electrical Engineer at KLA Corporation after my graduation from Northwestern University. You can refer to [Industry Experience](/industry-experience/) for details. 🔬👩‍💻
 
