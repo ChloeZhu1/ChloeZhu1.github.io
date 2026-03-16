@@ -7,10 +7,13 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-## Chief Technology Officer, [The Admissions Authority](https://www.theadmissionsauthority.com/), 2024 - present
+## Systems Engineer (Humanoid Robotics), Schaeffler Group, present
+* Developing next-generation humanoid robots and Physical AI systems through systems engineering, simulation, and cross-disciplinary collaboration.
+
+## Chief Technology Officer, [The Admissions Authority](https://www.theadmissionsauthority.com/), 2024 - 2026
 * Develop AI-based algorithms for college admission counseling and placement for undergraduate programs, including predicting admissions rate and customizing application strategies. 
 
-## Algorithm Engineer, AI-Drone Technology LLC, 2024 - present
+## Algorithm Engineer, AI-Drone Technology LLC, 2024 - 2026
 Computer Vision System Design for Object Tracking from Drones 
 * I developed a deep-learning based computer vision algorithm to detect, track and keep a fixed distance to the moving/non-moving objects, and optimized the code in order to be embedded in low power consumption CPUs such as ARM based architecture.
 
