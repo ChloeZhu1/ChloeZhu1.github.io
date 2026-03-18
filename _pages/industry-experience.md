@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-## Systems Engineer (Humanoid Robotics), Schaeffler Group, present
+## Systems Engineer (Humanoid Robotics), Schaeffler Group, Research & Development, present
 * Developing next-generation humanoid robots and Physical AI systems through systems engineering, simulation, and cross-disciplinary collaboration.
 
 ## Chief Technology Officer, [The Admissions Authority](https://www.theadmissionsauthority.com/), 2024 - 2026
