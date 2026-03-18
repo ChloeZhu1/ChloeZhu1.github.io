@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! My name is Chloé (Fangjun) Zhu. Currently, I am working on developing AI algorithms for unmanned aerial vehicle/drones, and for educational consultancy. I am also working on automation for industrial process control. 
+Hi everyone! My name is Chloé (Fangjun) Zhu. Currently, I am working on humanoid robotics and Physical AI as a Systems Engineer at Schaeffler Group, Research & Development. I am also working on automation for industrial process control. 
 
-Prior to these, I worked as an Electrical Engineer at KLA Corporation after my graduation from Northwestern University. You can refer to [Industry Experience](/industry-experience/) for details. 🔬👩‍💻
+Prior to these, I developed AI algorithms for unmanned aerial vehicle/drones, and for educational consultancy. I worked as an Electrical Engineer at KLA Corporation after my graduation from Northwestern University. You can refer to [Industry Experience](/industry-experience/) for details. 🔬👩‍💻
 
 My degrees span Electrical & Computer Engineering for Bachelor's, concentrating on Robotics, and Physics for Master's, concentrating on Math. You can refer to [Research Experience](/research-experience/) for my math, physics and engineering research. 📚📝
 
